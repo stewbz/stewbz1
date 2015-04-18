@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 
 
 #EXTINF:-1 group-title="SPORT",Arena Sport 1
@@ -101,7 +101,7 @@ http://llnw.live.simplestream.com/coder9/coder.channels.channel12/hls/3/playlist
 http://200.76.77.237/LIVE/H01/CANAL702/PROFILE02.m3u8?
 
 #EXTINF:-1 tvg-id="VH1" tvg-logo="VH1.png group-title="MUSIC",VH1 UK
-rtmp://edge03-03.az.myvideo.az/dvrh264/vh1/ playpath=mp4:vh1 swfUrl=http://www.myvideo.az/stml/dvr/dvrH.swf?v=1.2 live=1 pageUrl=http://www.myvideo.az/r.ates/
+http://92.50.181.6/tv/1282/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="VH1.png" group-title="MUSIC",VH1 SP
 http://200.76.77.237/LIVE/H01/CANAL703/PROFILE02.m3u8
