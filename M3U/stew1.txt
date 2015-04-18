@@ -1,0 +1,195 @@
+group,SPORT
+ArenaSport1.hr,Arena Sport 1,http://netiptv.dyndns.tv:80/live?channelId=39&uid=6&deviceUser=dreamsat&devicePass=pro001
+ArenaSport2.hr,Arena Sport 2,http://netiptv.dyndns.tv:80/live?channelId=40&uid=6&deviceUser=dreamsat&devicePass=pro001
+ArenaSport3.hr,Arena Sport 3,http://netiptv.dyndns.tv:80/live?channelId=41&uid=6&deviceUser=dreamsat&devicePass=pro001
+ArenaSport4.rs,Arena Sport 4,http://netiptv.dyndns.tv:80/live?channelId=80&uid=6&deviceUser=dreamsat&devicePass=pro001
+SportKlub.hr,Sport Klub 1,http://netiptv.dyndns.tv:80/live?channelId=81&uid=6&deviceUser=dreamsat&devicePass=pro001
+Sportklub2.si,Sport Klub 2,http://netiptv.dyndns.tv:80/live?channelId=42&uid=6&deviceUser=dreamsat&devicePass=pro001
+SportKlub3.hr,Sport Klub 3,http://netiptv.dyndns.tv:80/live?channelId=43&uid=6&deviceUser=dreamsat&devicePass=pro001
+ext,SportsNet360,http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+esp,Eurosport,http://146.158.123.198:4022/udp/239.72.6.50:1234
+esp2,Eurosport 2,http://146.158.123.198:4022/udp/239.72.6.51:1234
+ext,ESPN 1080p,http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?
+ntv,Fox Sport,http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
+ext,Fox Sports 2 1080p,http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?
+ext,Fox Sport News,http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_2128_av-p.m3u8?sd=10&rebase=on
+ext,PRO SPORT 1,http://185.56.30.127:8082/TV4133
+ext,PRO SPORT 2,http://185.56.30.127:8082/TV4134
+ext,PRO SPORT 3,http://185.56.30.127:8082/TV4135
+ext,British Eurosport 1,rtmp://80.82.64.140:443/liverepeater
+Eurosport2UK.uk,British Eurosport 2,rtmp://80.82.78.26:443/liverepeater
+ext,BEIN SPORT HD1 FR,http://185.56.30.127:8082/TV4016
+ext,BEIN SPORT HD2 FR,http://185.56.30.127:8082/TV4017
+ext,BEIN SPORT HD1 FR1,http://91.109.20.227:8080/TV4016?ainroua2021HD
+ext,BEIN SPORT HD2 FR1,http://91.109.20.227:8080/TV4017?ainroua2021HD
+ext,CNOPT SPORT,http://92.50.181.6/tv/1114/index.m3u8
+sport1_rus,CNOPT 1,http://92.50.181.6/tv/1115/index.m3u8
+ext,Real Madrid TV HD SP,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
+ext,PRO SPORTS 1 HD AR,http://91.109.20.227:8080/TV4133
+ext,PRO SPORTS 2 HD AR,http://91.109.20.227:8080/TV4134
+ext,PRO SPORTS 3 HD AR,http://91.109.20.227:8080/TV4135
+ext,OMN SPORTS HD ENG,http://185.27.237.105:8082/TV0104
+ext,Eurosport 1 RU,http://185.38.12.20:8088/eurosport/
+esp2,Eurosport 2 RU,http://185.38.12.20:8088/eurosport2/
+ext,Eurosport 1 RU1,http://178.49.132.73/streaming/eurosport/tvrec/playlist.m3u8
+ext,Eurosport 2 RU1,http://178.49.132.73/streaming/eurosport2/tvrec/playlist.m3u8
+ext,Nile Sport AR,http://arabic.dynns.com:1935/arabic/NileSport/chunklist_w499764461.m3u8?wmsAuthSign
+ext,Al Nahar Sport AR,http://50.7.180.18:1935/elnahar_tv/nahar_sportprofile2.stream/chunklist_w803090614.m3u8?v=3315732402
+ext,Abu Dhabi Sports 1 AR,http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8
+ext,Abu Dhabi Sports 2 AR,http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8
+ext,Abu Dhabi Sports 3 AR,http://205.185.216.10/h5f3k7p8/cds/smil:adsportextrahd/gmswf.m3u8
+ext,Dubai sports 3 AR,http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/HasBahCa.m3u8
+ext,ENCORE BAY AREA ENG,http://www.xrxs.net/video/live-p12baya-4728.m3u8
+ext,ENCORE LOS ANGELES ENG,http://xrxs.net/video/live-p12losa-4728.m3u8
+ext,ENCORE MOUNTAIN ENG,http://xrxs.net/video/live-p12moun-4728.m3u8
+ext,ENCORE NETWORK ENG,http://www.xrxs.net/video/live-p12netw-4728.m3u8
+ext,ENCORE OREGON ENG,http://xrxs.net/video/live-p12oreg-4728.m3u8
+ext,TRT SPOR HD TUR,http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+ext,FOX SPORTS SP,http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+ext,FOX SPORTS 2 SP,http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+ext,Viasat Sport HD RU,http://tv.yoooo.tv/onstream/R4Q93ZUT/102.m3u8
+ext,ESPN 3 HD SP SLOW,http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?
+ext,ESPN HD SP SLOW,http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?
+ext,Eurosport HD RU,http://46.61.226.18/hls/CH_C02_EUROSPORTHD/bw3000000/variant.m3u8?version=2
+ext,Our Football HD RU,http://46.61.226.18/hls/CH_C06_NASHFOOTBALLHD/bw3000000/variant.m3u8?version=2
+ext,1 Football HD RU,http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2
+ext,Football 2 HD RU,http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2
+ext,Football 3 HD RU,http://46.61.226.18/hls/CH_FUTBALL3HD/bw3000000/variant.m3u8?version=2
+ext,MBC PRO SPORTS 1 HD,http://intigral_live-lh.akamaihd.net/i/DPS3CPCHILXAHL130215_1@135296/index_1200_av-b.m3u8?sd=10&rebase=on
+ext,MBC PRO SPORTS 2 HD,http://intigral_live-lh.akamaihd.net/i/DPS3SPLSHBXHIL220315_1@129126/index_1200_av-b.m3u8?sd=10&rebase=on
+ext,MBC PRO SPORTS 3 HD,http://intigral_live-lh.akamaihd.net/i/DPS3SPLSHOXTWN220315_1@301567/index_1200_av-b.m3u8?sd=10&rebase=on
+ext,Viasat Golf HD ENG,http://46.61.226.18/hls/CH_C06_VIASATGOLFHD/bw3000000/variant.m3u8?version=2
+ext,FOX SPORTS BRASIL,rtmp://31.204.153.71:1935/live/master05?IGOR_RANGEL
+ESPN.uk,ESPN,rtmp://31.204.153.71:1935/live/master06?IGOR_RANGEL
+ext,ESPN1,rtmp://76.73.108.33:1935/edge
+beINSport1.fr,BEIN SPORTS 1,http://4.31.30.145:9128/
+beINSport2.fr,BEIN SPORTS 2,http://2co1.vp9.tv/chn/bin02/v.m3u8
+BeInSportMax3.fr,BEIN SPORTS 3,http://2co1.vp9.tv/chn/bin03/v.m3u8
+RaiSport1.it,RAI SPORT 1,mmsh://212.162.68.163:80/raisport+
+RaiSport2.it,RAI SPORT 2,mmsh://212.162.68.163:80/raisport2
+ext,ESPN HD SP,http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?IGOR_RANGEL
+ext,ESPN SP,http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?IGOR_RANGEL
+ext,ESPN 2 SP,http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?IGOR_RANGEL
+ext,FOX SPORTS SP,http://live.oneplay.tv/reproducir/397.m3u8
+ext,FOX SPORTS HD SP,http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?IGOR_RANGEL
+ext,FOX SPORTS 2 SP,http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?IGOR_RANGEL
+FoxSports.it,FOX SPORTS,rtmp://31.204.153.72:1935/live/fsb
+ext,Beinsport 2HD,rtmp://180.250.29.12:1935/jhos/beib2_5
+bein1hd.jsc,beIN 1,http://185.56.30.127:8082/TV4016
+bein2hd.jsc,beIN 2,http://185.56.30.127:8082/TV4017
+ext,beIN 12,http://185.56.30.127:8082/TV4012
+ext,beIN 13 FR,http://185.56.30.127:8082/TV4013
+ext,beIN 14 FR,http://185.56.30.127:8082/TV4014
+ext,Super sport 1,http://81.7.13.162/hls/ss1/index.m3u8
+ext,Super sport 2,http://81.7.13.162/hls/ss2/index.m3u8
+ext,Super sport 3,http://81.7.13.162/hls/ss3/index.m3u8
+ESPN.uk,ESPN,http://162.219.0.235:8000/udp/162.219.0.235:15140
+
+group,MUSIC
+pop.uk,POP,http://llnw.live.simplestream.com/coder4/coder.channels.channel14/hls/3/playlist.m3u8
+MTVLiveHD.uk,MTV Live HD,http://200.76.77.237/LIVE/H01/CANAL701/PROFILE02.m3u8
+ext,MTV Hits SD,http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/bw480000/playlist.m3u8?utcstart=1425964607.5274911
+mtv-dance,MTV Dance HD,http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/bw480000/playlist.m3u8?utcstart=1425964714.5193388
+mtv-rocks,MTV Rocks HD,http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/bw480000/playlist.m3u8?utcstart=1425964738.5959589
+ext,4Music HD,http://llnw.live.simplestream.com/coder9/coder.channels.channel6/hls/3/playlist.m3u8
+ext,Now Thats What I Call Music Channel,http://llnw.live.simplestream.com/coder6/coder.channels.channel5/hls/3/playlist.m3u8
+ext,Heart TV,http://llnw.live.simplestream.com/coder7/coder.channels.channel10/hls/3/playlist.m3u8
+PlanetPop.uk,Planet POP,http://llnw.live.simplestream.com/coder8/coder.channels.channel11/hls/3/playlist.m3u8
+HeatTV.uk,Heat TV,http://llnw.live.simplestream.com/coder9/coder.channels.channel8/hls/3/playlist.m3u8
+KissTV.uk,Kiss TV,http://llnw.live.simplestream.com/coder9/coder.channels.channel14/hls/3/playlist.m3u8
+ext,KERRANG TV,http://llnw.live.simplestream.com/coder11/coder.channels.channel4/hls/3/playlist.m3u8
+ext,Magic.TV,http://llnw.live.simplestream.com/coder11/coder.channels.channel2/hls/3/playlist.m3u8
+SmashHits.uk,Smash Hits!,http://llnw.live.simplestream.com/coder9/coder.channels.channel2/hls/3/playlist.m3u8
+TheBox.uk,The Box,http://llnw.live.simplestream.com/coder9/coder.channels.channel12/hls/3/playlist.m3u8
+Telehit.mx,TELEHIT,http://200.76.77.237/LIVE/H01/CANAL702/PROFILE02.m3u8?
+VH1UK.uk,VH1 UK,http://92.50.181.6/tv/1282/index.m3u8
+ext,VH1 SP,http://200.76.77.237/LIVE/H01/CANAL703/PROFILE02.m3u8
+vh-1-classic,VH1 Classic,http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/bw480000/playlist.m3u8?utcstart=1425965374.0639367
+ext,BANDAMAX HD,http://200.76.77.237/LIVE/H01/CANAL732/PROFILE02.m3u8?
+B4UMusic.uk,B4U Music,http://46.249.213.87/iPhone/broadcast/b4u-tablet.3gp/b4u-tablet.3gp-mr648k.m3u8?trackingid=3391380000&os=desktop
+CapitalTV.uk,CAPITAL TV,http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+ChannelAka.uk,Channel AKA,http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+ClublandTV.uk,Clubland TV,http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+ext,MTV Music HD,rtmp://83.218.202.202:1935/live
+MTVEurope.cz,MTV Europe,http://200.76.77.237/LIVE/H01/CANAL726/PROFILE02.m3u8?
+MTVLiveHD.uk,MTV Live HD,http://200.76.77.237/LIVE/H01/CANAL701/PROFILE01.m3u8
+ext,MTV Hits SD,http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
+mtv-dance,MTV Dance HD,http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
+mtv-rocks,MTV Rocks HD,http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
+ext,VEVO HD ENG,http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+ext,Vevo 2 HD ENG,http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+ext,Vevo 3 HD ENG,http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+ext,USA:Kiss ENG,rtmp://tst.es.flash.glb.ipercast.net:1935/tst.es-live/live
+ext,1HD ENG,rtmp://109.239.142.62:1935/live/livestream3
+mtvlive-hd,MTV LIVE HD ENG,http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
+kultura,First Music HD 1080p,rtmp://109.239.142.62:1935/live/livestream3
+
+group,ENTERTAINMENT
+BBC1.uk,BBC 1,http://37.220.29.186:8000/bbc1/bbc1/index.m3u8
+ext,BBC One London (stream 2),http://82.135.224.134:80/udp/239.100.3.1:1234
+ext,BBC One Scotland,http://82.135.224.134:80/udp/239.100.3.2:1234
+BBC2.uk,BBC 2,http://37.220.29.186:8000/bbc2/bbc2/index.m3u8
+ext,BBC Two England (stream 2),http://82.135.224.134:80/udp/239.100.3.3:1234
+BBC3.uk,BBC Three,http://82.135.224.134:80/udp/239.100.3.4:1234
+BBC4.uk,BBC Four,http://82.135.224.134:80/udp/239.100.3.5:1234
+ITV1London.uk,ITV 1 London,http://82.135.224.134:80/udp/239.100.3.6:1234
+ITV2.uk,ITV 2,rtmp://141.8.247.250:1935/base
+ITV3.uk,ITV 3,http://wpc.573d.edgecastcdn.net:80/00573D/live/enc0001/a-itv3/m3u8/a-itv3-1.m3u8
+ITV4.uk,ITV 4,rtmp://141.8.247.250:1935/base
+ext,ITV choice,http://185.27.237.105:8082/TV0055
+LondonLive.uk,London Live,http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+ext,AMEDIA 1 HD RU,http://46.61.226.18/hls/CH_C01_HDAMEDIA/bw3000000/variant.m3u8?version=2
+ext,Amedia Premium HD RU,http://46.61.226.18/hls/CH_C05_HDAMEDIAPREMIUM/bw3000000/variant.m3u8?version=2
+ext,SBT BR,http://srv3.zoeweb.tv:1935/z133-live/stream/playlist.m3u8
+ext,REDE TV BR,rtmp://evp.mm.uol.com.br:1935/redetv1/_definst_/redetv1
+ext,TV ESCOLA BR,http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
+ext,SIC PT,http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
+Globonordeste.br,GLOBO NORDESTE,http://live-cdn.direct-stream.org:1935/live/_definst_/101010/Globo_SP_Anderson_Elias.m3u8?Grupo_UP_e_DOWN
+ext,Canal Do Boi Tv,rtmp://srvvenus.canaldoboi.com:1935/livecb/livestream
+CartoonNetwork.uk,CARTOON NETWORK,rtmp://31.204.128.140:1935/live/brlive_0028
+DiscoveryKids.mx,DISCOVERY KIDS,rtmp://31.204.128.74:1935/live/master24
+CanalExtremadura.es,Extremadura TV,http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+ext,Extremadura TV 1,rtmp://corporacionextremenaocclivefs.fplive.net:1935/corporacionextremenalive-live//stream1
+FX.uk,FOX,rtmp://31.204.128.140:1935/live/fox
+Nickelodeon.uk,NICKELODEON,rtmp://31.204.128.140:1935/live/brlive_0030
+ext,Rede Família,rtsp://srv3.ntelecom.com.br/redefamilia
+ext,Rede Minas,rtmp://rtmp.cdn.upx.net.br:1935/00084/myStream.sdp
+ext,TV MANÁ BRASIL,http://195.22.19.189:1935/tvbr/tvbrasil2/hasbahca.m3u8
+
+group,MOVIES
+Film4.uk,Film 4,http://78.129.175.72/live/film4/film4.m3u8
+SkyMoviesPremiere.uk,Sky Movies Premiere,http://91.109.20.227:8080/TV4251
+ext,Sky Movies Premiere+,http://91.109.20.227:8080/TV4252
+SkyMoviesIndie.uk,Sky Movies Select,http://91.109.20.227:8080/TV4254
+ext,Sky Movies Action & Adventure,http://91.109.20.227:8080/TV4245
+SkyMoviesComedy.uk,Sky Movies Comedy,http://91.109.20.227:8080/TV4246
+SkyMoviesDisney.uk,Sky Movies Disney,http://91.109.20.227:8080/TV4247
+SkyMoviesFamily.uk,Sky Movies Family,http://91.109.20.227:8080/TV4248
+ext,Sky Movies SciFi,http://91.109.20.227:8080/TV4249
+ext,Sky Movies Premiere 2nd,http://185.56.30.123:8082/TV4251
+ext,Sky Movies Premiere+ 2nd,http://185.56.30.123:8082/TV4252
+ext,Sky Sky Movies Select 2nd,http://185.56.30.123:8082/TV4254
+ext,Sky Movies Action & Adventure 2nd,http://185.56.30.123:8082/TV4245
+ext,Sky Movies Comedy 2nd,http://185.56.30.123:8082/TV4246
+ext,Sky Movies Disney 2nd,http://185.56.30.123:8082/TV4247
+ext,Sky  Movies Family 2nd,http://185.56.30.123:8082/TV4248
+ext,Sky Movies SciFi 2nd,http://185.56.30.123:8082/TV4249
+ext,CINEBRASIL,http://62.210.83.180:1935/liverepeat/cinebrasil180/cinebrasil180/IGOR_RANGEL.m3u8
+CinemaxO.mx,CINEMAX,rtmp://31.204.128.140:1935/live/53
+Megapix.br,MEGAPIX,rtmp://31.204.128.73:1935/live/master11
+ext,TC ACTION,rtmp://31.204.128.75:1935/live/master17
+Telecinepipoca.br,TC PIPOCA,rtmp://31.204.128.74:1935/live/master18
+Telecinepremium.br,TC PREMIUM,rtmp://31.204.128.140:1935/live/master19
+universal-russia,UNIVERSAL,rtmp://31.204.128.75:1935/live/master20
+universal-russia,UNIVERSAL,rtmp://180.250.29.12:1935/jhos/beib1_5
+
+group,DOCUMENTARY
+ext,DISCOVERY HD ENG,http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+ext,Animal Planet HD ENG,http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028
+ext,A&E Network HD SP,http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?
+ext,Discovery Science HD RU,http://46.61.226.18/hls/CH_C05_DISCOVERYSCIENCEHD/bw3000000/variant.m3u8?version=2
+ext,Animal Planet HD RU,http://46.61.226.18/hls/CH_C03_ANIMALPLANETHD/bw3000000/variant.m3u8?version=2
+ext,Nat Geo Wild HD RU,http://46.61.226.18/hls/CH_C03_NATGEOWILDHD/bw3000000/variant.m3u8?version=2
+ext,National Geographic HD RU,http://46.61.226.18/hls/CH_C04_NGCHD/bw3000000/variant.m3u8?version=2
+
+
