@@ -1,16 +1,16 @@
-﻿#EXTM3U
+#EXTM3U
 
 
 #EXTINF:-1 group-title="SPORT",Arena Sport 1
 http://netiptv.dyndns.tv:80/live?channelId=39&uid=6&deviceUser=dreamsat&devicePass=pro001
 
-#EXTINF:-1 group-title="SPORT", Arena Sport 2
+#EXTINF:-1 group-title="SPORT",Arena Sport 2
 http://netiptv.dyndns.tv:80/live?channelId=40&uid=6&deviceUser=dreamsat&devicePass=pro001
 
-#EXTINF:-1 group-title="SPORT", Arena Sport 3
+#EXTINF:-1 group-title="SPORT",Arena Sport 3
 http://netiptv.dyndns.tv:80/live?channelId=41&uid=6&deviceUser=dreamsat&devicePass=pro001
 
-#EXTINF:-1 group-title="SPORT", Arena Sport 4
+#EXTINF:-1 group-title="SPORT",Arena Sport 4
 http://netiptv.dyndns.tv:80/live?channelId=80&uid=6&deviceUser=dreamsat&devicePass=pro001
 
 #EXTINF:-1 group-title="SPORT",Sport Klub 1
@@ -25,22 +25,13 @@ http://netiptv.dyndns.tv:80/live?channelId=43&uid=6&deviceUser=dreamsat&devicePa
 #EXTINF:0 group-title="SPORT",SportsNet360
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 
-#EXTINF: -1 group-title="SPORT", Eurosport
+#EXTINF: -1 group-title="SPORT",Eurosport
 http://146.158.123.198:4022/udp/239.72.6.50:1234
 
-#EXTINF: -1 group-title="SPORT", Eurosport 2
+#EXTINF: -1 group-title="SPORT",Eurosport 2
 http://146.158.123.198:4022/udp/239.72.6.51:1234
 
-#EXTINF:-1 group-title="SPORT",NBC Sports Golf 720p [COLOR yellow]Seems Down for some? Will be back ASAP[/COLOR]
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1 group-title="SPORT",NBC Sports Network 1080P [COLOR yellow]Seems Down for some? Will be back ASAP[/COLOR]
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1 group-title="SPORT",NBC Sports Network 720P [COLOR yellow]Seems Down for some? Will be back ASAP[/COLOR]
-rtmp://w3.vmnode.pw:2195/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
-
-#EXTINF:-1 group-title="SPORT", ESPN 1080p
+#EXTINF:-1 group-title="SPORT",ESPN 1080p
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?
 
 #EXTINF:-1 group-title="SPORT",Fox Sport
@@ -51,39 +42,6 @@ http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?
 
 #EXTINF:-1 group-title="SPORT",Fox Sport News
 http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_2128_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title="SPORT",PAC Mountain 1080P
-http://xrxs.net/video/live-p12moun-4728.m3u8
-
-#EXTINF:-1 group-title="SPORT",PAC Network National 720P
-http://xrxs.net/video/live-p12netw-2328.m3u8
-
-#EXTINF:-1 group-title="SPORT",PAC-12 Net. (Arizona) 720P
-http://xrxs.net/video/live-p12ariz-2328.m3u8
-
-#EXTINF:-1 group-title="SPORT",PAC-12 Net. (Arizona) 1080P
-http://xrxs.net/video/live-p12ariz-4728.m3u8
-
-#EXTINF:-1 group-title="SPORT",PAC-12 Net. (Bay Area) 720P
-http://xrxs.net/video/live-p12baya-2328.m3u8
-
-#EXTINF:-1 group-title="SPORT",PAC-12 Net. (Bay Area) 1080P
-http://xrxs.net/video/live-p12baya-4728.m3u8
-
-#EXTINF:-1 group-title="SPORT",PAC-12 Net. (Los Angeles) 720P
-http://xrxs.net/video/live-p12losa-2328.m3u8
-
-#EXTINF:-1 group-title="SPORT",PAC-12 Net. (Oregon) 720P
-http://xrxs.net/video/live-p12oreg-2328.m3u8
-
-#EXTINF:-1 group-title="SPORT",PAC-12 Net. (Oregon) 1080P
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-
-#EXTINF:-1 group-title="SPORT",PAC-12 Net. (Washington) 720P
-http://xrxs.net/video/live-p12wash-2328.m3u8
-
-#EXTINF:-1 group-title="SPORT",PAC-12 Net. (Washington) 1080P
-http://xrxs.net/video/live-p12wash-4728.m3u8
 
 #EXTINF:-1 group-title="SPORT",PRO SPORT 1
 http://185.56.30.127:8082/TV4133
@@ -121,10 +79,10 @@ http://llnw.live.simplestream.com/coder7/coder.channels.channel10/hls/3/playlist
 #EXTINF:-1 tvg-id="Pop" tvg-logo="pop.png" group-title="MUSIC",Planet POP
 http://llnw.live.simplestream.com/coder8/coder.channels.channel11/hls/3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Heat" tvg-logo="heat.png" group-title="MUSIC",[I]Heat TV[/I]
+#EXTINF:-1 tvg-id="Heat" tvg-logo="heat.png" group-title="MUSIC",Heat TV
 http://llnw.live.simplestream.com/coder9/coder.channels.channel8/hls/3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Kiss" tvg-logo="kiss.png" group-title="MUSIC",[I]Kiss TV[/I]
+#EXTINF:-1 tvg-id="Kiss" tvg-logo="kiss.png" group-title="MUSIC",Kiss TV
 http://llnw.live.simplestream.com/coder9/coder.channels.channel14/hls/3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Kerrang!" tvg-logo="kerrang.png" group-title="MUSIC",KERRANG TV
@@ -133,7 +91,7 @@ http://llnw.live.simplestream.com/coder11/coder.channels.channel4/hls/3/playlist
 #EXTINF:-1 tvg-id="Magic" tvg-logo="magic.png" group-title="MUSIC",Magic.TV
 http://llnw.live.simplestream.com/coder11/coder.channels.channel2/hls/3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Smash Hits!" tvg-logo="smashhits.png" group-title="MUSIC",[I]Smash Hits![/I]
+#EXTINF:-1 tvg-id="Smash Hits!" tvg-logo="smashhits.png" group-title="MUSIC",Smash Hits!
 http://llnw.live.simplestream.com/coder9/coder.channels.channel2/hls/3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="The Box" tvg-logo="thebox.png" group-title="MUSIC",The Box 
@@ -145,7 +103,7 @@ http://200.76.77.237/LIVE/H01/CANAL702/PROFILE02.m3u8?
 #EXTINF:-1 tvg-id="VH1" tvg-logo="VH1.png group-title="MUSIC",VH1 UK
 rtmp://edge03-03.az.myvideo.az/dvrh264/vh1/ playpath=mp4:vh1 swfUrl=http://www.myvideo.az/stml/dvr/dvrH.swf?v=1.2 live=1 pageUrl=http://www.myvideo.az/r.ates/
 
-#EXTINF:-1 tvg-id="" tvg-logo="VH1.png" group-title="MUSIC",[I]VH1(ESP)[/I]
+#EXTINF:-1 tvg-id="" tvg-logo="VH1.png" group-title="MUSIC",VH1 SP
 http://200.76.77.237/LIVE/H01/CANAL703/PROFILE02.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="VH1CLASSIC.png group-title="MUSIC",VH1 Classic
@@ -175,13 +133,13 @@ http://82.135.224.134:80/udp/239.100.3.5:1234
 #EXTINF:-1 group-title="ENTERTAINMENT",ITV 1 London
 http://82.135.224.134:80/udp/239.100.3.6:1234
 
-#EXTINF:0 group-title="ENTERTAINMENT", ITV 2
+#EXTINF:0 group-title="ENTERTAINMENT",ITV 2
 rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base playpath=itv2tv.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php?v=aj1&vw=600&vh=450 token=%X886(nPK@#.
 
-#EXTINF:0 group-title="ENTERTAINMENT", ITV 3
+#EXTINF:0 group-title="ENTERTAINMENT",ITV 3
 http://wpc.573d.edgecastcdn.net:80/00573D/live/enc0001/a-itv3/m3u8/a-itv3-1.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT", ITV 4
+#EXTINF:0 group-title="ENTERTAINMENT",ITV 4
 rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base playpath=itv4tv.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php?v=itv_4&vw=600&vh=450 token=%X886(nPK@#.
 
 #EXTINF:-1 group-title="ENTERTAINMENT",ITV choice
@@ -190,7 +148,7 @@ http://185.27.237.105:8082/TV0055
 #EXTINF:-1 group-title="ENTERTAINMENT",London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 
-#EXTINF:-1 group-title="MOVIES", Film 4
+#EXTINF:-1 group-title="MOVIES",Film 4
 http://78.129.175.72/live/film4/film4.m3u8
 
 #EXTINF:0 group-title="MOVIES",Sky Movies Premiere
@@ -241,19 +199,16 @@ http://185.56.30.123:8082/TV4248
 #EXTINF:0 group-title="MOVIES",Sky Movies SciFi 2nd
 http://185.56.30.123:8082/TV4249
 
-#EXTINF:-1 group-title="SPORT", British Eurosport 1
+#EXTINF:-1 group-title="SPORT",British Eurosport 1
 rtmp://80.82.64.140:443/liverepeater playpath=28 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=22&width=600&height=450 token=#atd%#$ZH
  
-#EXTINF:-1 group-title="SPORT", British Eurosport 2
+#EXTINF:-1 group-title="SPORT",British Eurosport 2
 rtmp://80.82.78.26:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=15&width=620&height=490 token=#atd%#$ZH
-
-#EXTINF:-1 tvg-id=""tv-logo=“” group-title="MUSIC",[COLOR orange]» » Music« «[/COLOR]
-http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="I867.164718905.microsoft.com" tvg-logo="BANDMAX.png" group-title="MUSIC",BANDAMAX HD
 http://200.76.77.237/LIVE/H01/CANAL732/PROFILE02.m3u8?
 
-#EXTINF:-1 tvg-id="I781.751725.microsoft.com" tvg-logo="e95df3fb24cdc88b270455268f2aa3e8.png" group-title="MUSIC",[I][B]B4U[/B] Music[/I]
+#EXTINF:-1 tvg-id="I781.751725.microsoft.com" tvg-logo="e95df3fb24cdc88b270455268f2aa3e8.png" group-title="MUSIC",B4U Music
 http://46.249.213.87/iPhone/broadcast/b4u-tablet.3gp/b4u-tablet.3gp-mr648k.m3u8?trackingid=3391380000&os=desktop
 
 #EXTINF:-1 tvg-id="CapitalTV.uk" tvg-logo="b7c99ed46812e3b749b4fe39404aed09.png" group-title="MUSIC",CAPITAL TV
@@ -268,7 +223,7 @@ http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&pr
 #EXTINF:-1 tvg-id="I350.759433.microsoft.com" tvg-logo="MTV.png" group-title="MUSIC",MTV Music HD
 rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
 
-#EXTINF:-1 tvg-id="I160.28457065.microsoft.com" tvg-logo="MTV.gr.png" group-title="MUSIC", MTV Europe
+#EXTINF:-1 tvg-id="I160.28457065.microsoft.com" tvg-logo="MTV.gr.png" group-title="MUSIC",MTV Europe
 http://200.76.77.237/LIVE/H01/CANAL726/PROFILE02.m3u8?
 
 #EXTINF:-1 tvg-id="I358.758414.microsoft.com" tvg-logo="MTVLIVE.png" group-title="MUSIC",MTV Live HD
@@ -298,7 +253,7 @@ http://91.109.20.227:8080/TV4017?ainroua2021HD
 #EXTINF:-1 group-title="SPORT",CNOPT SPORT
 http://92.50.181.6/tv/1114/index.m3u8
 
-#EXTINF: 0 group-title="SPORT", CNOPT 1
+#EXTINF: 0 group-title="SPORT",CNOPT 1
 http://92.50.181.6/tv/1115/index.m3u8
 
 #EXTINF:-1 group-title="SPORT",Real Madrid TV HD SP
@@ -361,7 +316,7 @@ http://www.xrxs.net/video/live-p12netw-4728.m3u8
 #EXTINF:-1 group-title="SPORT",ENCORE OREGON ENG
 http://xrxs.net/video/live-p12oreg-4728.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png" group-title="SPORT", TRT SPOR HD TUR
+#EXTINF:-1 tvg-logo="trt.png" group-title="SPORT",TRT SPOR HD TUR
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 
 #EXTINF:-1 group-title="MUSIC",VEVO HD ENG
@@ -379,58 +334,58 @@ rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:-1 group-title="MUSIC",1HD ENG
 rtmp://109.239.142.62/live/livestream3
 
-#EXTINF:-1 group-title="MUSIC", MTV LIVE HD ENG
+#EXTINF:-1 group-title="MUSIC",MTV LIVE HD ENG
 http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
 
-#EXTINF:-1 group-title="DOCUMENTARY", DISCOVERY HD ENG
+#EXTINF:-1 group-title="DOCUMENTARY",DISCOVERY HD ENG
 http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
  
-#EXTINF:-1 group-title="SPORT", FOX SPORTS SP
+#EXTINF:-1 group-title="SPORT",FOX SPORTS SP
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
  
-#EXTINF:-1 group-title="SPORT", FOX SPORTS 2 SP
+#EXTINF:-1 group-title="SPORT",FOX SPORTS 2 SP
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
 
 #EXTINF:-1 group-title="SPORT",Viasat Sport HD RU
 http://tv.yoooo.tv/onstream/R4Q93ZUT/102.m3u8
  
-#EXTINF:-1 group-title="SPORT", ESPN 3 HD SP SLOW
+#EXTINF:-1 group-title="SPORT",ESPN 3 HD SP SLOW
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?
  
-#EXTINF:-1 group-title="SPORT", ESPN HD SP SLOW
+#EXTINF:-1 group-title="SPORT",ESPN HD SP SLOW
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?
  
-#EXTINF:-1 group-title="DOCUMENTARY", Animal Planet HD ENG
+#EXTINF:-1 group-title="DOCUMENTARY",Animal Planet HD ENG
 http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028
  
-#EXTINF:-1 group-title="DOCUMENTARY", A&E Network HD SP
+#EXTINF:-1 group-title="DOCUMENTARY",A&E Network HD SP
 http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?
  
-#EXTINF: 0 group-title="DOCUMENTARY", Discovery Science HD RU
+#EXTINF: 0 group-title="DOCUMENTARY",Discovery Science HD RU
 http://46.61.226.18/hls/CH_C05_DISCOVERYSCIENCEHD/bw3000000/variant.m3u8?version=2  
  
-#EXTINF: 0 group-title="SPORT", Eurosport HD RU 
+#EXTINF: 0 group-title="SPORT",Eurosport HD RU 
 http://46.61.226.18/hls/CH_C02_EUROSPORTHD/bw3000000/variant.m3u8?version=2  
   
-#EXTINF: 0 group-title="ENTERTAINMENT", AMEDIA 1 HD RU
+#EXTINF: 0 group-title="ENTERTAINMENT",AMEDIA 1 HD RU
 http://46.61.226.18/hls/CH_C01_HDAMEDIA/bw3000000/variant.m3u8?version=2  
  
-#EXTINF: 0 group-title="ENTERTAINMENT", Amedia Premium HD RU
+#EXTINF: 0 group-title="ENTERTAINMENT",Amedia Premium HD RU
 http://46.61.226.18/hls/CH_C05_HDAMEDIAPREMIUM/bw3000000/variant.m3u8?version=2  
  
-#EXTINF: 0 group-title="DOCUMENTARY", Animal Planet HD RU
+#EXTINF: 0 group-title="DOCUMENTARY",Animal Planet HD RU
 http://46.61.226.18/hls/CH_C03_ANIMALPLANETHD/bw3000000/variant.m3u8?version=2  
  
-#EXTINF: 0 group-title="SPORT", Our Football HD RU
+#EXTINF: 0 group-title="SPORT",Our Football HD RU
 http://46.61.226.18/hls/CH_C06_NASHFOOTBALLHD/bw3000000/variant.m3u8?version=2  
  
-#EXTINF: 0 group-title="SPORT", 1 Football HD RU
+#EXTINF: 0 group-title="SPORT",1 Football HD RU
 http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2  
  
-#EXTINF: 0 group-title="SPORT", Football 2 HD RU
+#EXTINF: 0 group-title="SPORT",Football 2 HD RU
 http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2  
  
-#EXTINF: 0 group-title="SPORT", Football 3 HD RU 
+#EXTINF: 0 group-title="SPORT",Football 3 HD RU 
 http://46.61.226.18/hls/CH_FUTBALL3HD/bw3000000/variant.m3u8?version=2  
 
 #EXTINF:-1 group-title="SPORT",MBC PRO SPORTS 1 HD
@@ -472,7 +427,7 @@ rtmp://76.73.108.33/edge playpath=espn  swfUrl=http://www.livestreamtv.biz/swfs/
 #EXTINF:-1 tvg-id="Cine Brasil.igor" tvg-logo="Cinebrasiltv.png" group-title="MOVIES",CINEBRASIL
 http://62.210.83.180:1935/liverepeat/cinebrasil180/cinebrasil180/IGOR_RANGEL.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="BeIN-1.png" group-title="SPORT",BEIN SPORTS 1 [COLOR yellow] HD720[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="BeIN-1.png" group-title="SPORT",BEIN SPORTS 1
 http://4.31.30.145:9128/
  
 #EXTINF:-1 tvg-id="" tvg-logo="BeIN-2.png" group-title="SPORT",BEIN SPORTS 2
