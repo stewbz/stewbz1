@@ -214,31 +214,31 @@ http://91.109.20.227:8080/TV4247
 #EXTINF:0 group-title="MOVIES",Sky Movies Family
 http://91.109.20.227:8080/TV4248
  
-#EXTINF:0 group-title="MOVIES",Sky Movies Family
+#EXTINF:0 group-title="MOVIES",Sky Movies SciFi
 http://91.109.20.227:8080/TV4249
  
-#EXTINF:0 group-title="MOVIES",Sky Movies Premiere
+#EXTINF:0 group-title="MOVIES",Sky Movies Premiere 2nd
 http://185.56.30.123:8082/TV4251
  
-#EXTINF:0 group-title="MOVIES",Sky Movies Premiere+
+#EXTINF:0 group-title="MOVIES",Sky Movies Premiere+ 2nd
 http://185.56.30.123:8082/TV4252
  
-#EXTINF:0 group-title="MOVIES",Sky Sky Movies Select
+#EXTINF:0 group-title="MOVIES",Sky Sky Movies Select 2nd
 http://185.56.30.123:8082/TV4254
  
-#EXTINF:0 group-title="MOVIES",Sky Movies Action & Adventure
+#EXTINF:0 group-title="MOVIES",Sky Movies Action & Adventure 2nd
 http://185.56.30.123:8082/TV4245
  
-#EXTINF:0 group-title="MOVIES",Sky Movies Comedy
+#EXTINF:0 group-title="MOVIES",Sky Movies Comedy 2nd
 http://185.56.30.123:8082/TV4246
  
-#EXTINF:0 group-title="MOVIES",Sky Movies Disney
+#EXTINF:0 group-title="MOVIES",Sky Movies Disney 2nd
 http://185.56.30.123:8082/TV4247
  
-#EXTINF:0 group-title="MOVIES",Sky  Movies Family
+#EXTINF:0 group-title="MOVIES",Sky  Movies Family 2nd
 http://185.56.30.123:8082/TV4248
  
-#EXTINF:0 group-title="MOVIES",Sky Movies SciFi
+#EXTINF:0 group-title="MOVIES",Sky Movies SciFi 2nd
 http://185.56.30.123:8082/TV4249
 
 #EXTINF:-1 group-title="SPORT", British Eurosport 1
@@ -511,56 +511,56 @@ http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?IGOR_RANGEL
 #EXTINF:-1 tvg-id="Globo Nacional.ttwrs" tvg-logo="Globo%20HD.png" group-title="ENTERTAINMENT",GLOBO NORDESTE
 http://live-cdn.direct-stream.org:1935/live/_definst_/101010/Globo_SP_Anderson_Elias.m3u8?Grupo_UP_e_DOWN
 
-#EXTINF:-1,Canal Do Boi Tv
+#EXTINF:-1 group-title="ENTERTAINMENT",Canal Do Boi Tv
 rtmp://srvvenus.canaldoboi.com/livecb/livestream
 
-#EXTINF:-1,CARTOON NETWORK
+#EXTINF:-1 group-title="ENTERTAINMENT",CARTOON NETWORK
 rtmp://31.204.128.140/live/brlive_0028
 
-#EXTINF:-1,CINEMAX
+#EXTINF:-1 group-title="MOVIES",CINEMAX
 rtmp://31.204.128.140/live/53
 
-#EXTINF:-1,DISCOVERY KIDS
+#EXTINF:-1 group-title="ENTERTAINMENT",DISCOVERY KIDS
 rtmp://31.204.128.74/live/master24
 
-#EXTINF:-1,Extremadura TV
+#EXTINF:-1 group-title="ENTERTAINMENT",Extremadura TV
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
 
-#EXTINF:-1,Extremadura TV 1
+#EXTINF:-1 group-title="ENTERTAINMENT",Extremadura TV 1
 rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live//stream1
 
-#EXTINF:-1,First Music HD 1080p
+#EXTINF:-1 group-title="MUSIC",First Music HD 1080p
 rtmp://109.239.142.62/live/livestream3
 
-#EXTINF:-1,FOX
+#EXTINF:-1 group-title="ENTERTAINMENT",FOX
 rtmp://31.204.128.140/live/fox
 
-#EXTINF:-1,FOX SPORTS
+#EXTINF:-1 group-title="SPORT",FOX SPORTS
 rtmp://31.204.153.72/live/fsb
 
-#EXTINF:-1,MEGAPIX
+#EXTINF:-1 group-title="MOVIES",MEGAPIX
 rtmp://31.204.128.73/live/master11
 
-#EXTINF:-1,NICKELODEON
+#EXTINF:-1 group-title="ENTERTAINMENT",NICKELODEON
 rtmp://31.204.128.140/live/brlive_0030
 
-#EXTINF:-1,Rede Família
+#EXTINF:-1 group-title="ENTERTAINMENT",Rede Família
 rtsp://srv3.ntelecom.com.br/redefamilia
 
-#EXTINF:-1,Rede Minas
+#EXTINF:-1 group-title="ENTERTAINMENT",Rede Minas
 rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
 
-#EXTINF:-1,TC ACTION
+#EXTINF:-1 group-title="MOVIES",TC ACTION
 rtmp://31.204.128.75/live/master17
 
-#EXTINF:-1,TC PIPOCA
+#EXTINF:-1 group-title="MOVIES",TC PIPOCA
 rtmp://31.204.128.74/live/master18
 
-#EXTINF:-1,TC PREMIUM
+#EXTINF:-1 group-title="MOVIES",TC PREMIUM
 rtmp://31.204.128.140/live/master19
 
-#EXTINF:-1,TV MANÁ BRASIL
+#EXTINF:-1 group-title="ENTERTAINMENT",TV MANÁ BRASIL
 http://195.22.19.189:1935/tvbr/tvbrasil2/hasbahca.m3u8
 
-#EXTINF:-1,UNIVERSAL
+#EXTINF:-1 group-title="MOVIES",UNIVERSAL
 rtmp://31.204.128.75/live/master20
