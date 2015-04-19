@@ -78,9 +78,6 @@ http://200.76.77.237/LIVE/H01/CANAL703/PROFILE02.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="VH1CLASSIC.png group-title="MUSIC",VH1 Classic
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/bw480000/playlist.m3u8?utcstart=1425965374.0639367
 
-#EXTINF:-1 group-title="ENTERTAINMENT",London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-
 #EXTINF:0 group-title="MOVIES",Sky Movies Premiere
 http://91.109.20.227:8080/TV4251
  
@@ -377,10 +374,7 @@ http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?IGOR_RANGEL
  
 #EXTINF:-1 tvg-id="" tvg-logo="ESPN.png" group-title="SPORT",ESPN 2 SP
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?IGOR_RANGEL
- 
-#EXTINF:-1 tvg-id="" tvg-logo="Fox-Sports.png" group-title="SPORT",FOX SPORTS SP
-http://live.oneplay.tv/reproducir/397.m3u8
- 
+
 #EXTINF:-1 tvg-id="" tvg-logo="Fox-Sports.png" group-title="SPORT",FOX SPORTS HD SP
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?IGOR_RANGEL
  
@@ -486,7 +480,7 @@ http://llnw.live.simplestream.com/mediaexcel01/channel06/3/prog_index.m3u8
 #EXTINF:0 group-title="ENTERTAINMENT",BBC Four
 http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT",Box Nation
+#EXTINF:0 group-title="SPORT",Box Nation
 http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT",CBS Action
@@ -522,7 +516,7 @@ http://llnw.live.simplestream.com/coder10/coder.channels.channel16/hls/3/playlis
 #EXTINF:0 group-title="ENTERTAINMENT",E4
 http://llnw.live.simplestream.com/coder10/coder.channels.channel21/hls/3/playlist.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT",Fashion TV
+#EXTINF:0 group-title="SALES",Fashion TV
 http://llnw.live.simplestream.com/coder6/coder.channels.channel8/hls/3/playlist.m3u8
 
 #EXTINF:0 group-title="MOVIES",Film Four
@@ -537,16 +531,16 @@ http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.
 #EXTINF:0 group-title="ENTERTAINMENT",Food Network +1 (UK)
 http://llnw.live.simplestream.com/coder2/coder.channels.channel8/hls/3/playlist.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT",Horror Channel
+#EXTINF:0 group-title="MOVIES",Horror Channel
 http://llnw.live.simplestream.com/coder4/coder.channels.channel6/hls/3/playlist.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT",Horse & Country
 http://llnw.live.simplestream.com/coder3/coder.channels.channel5/hls/3/playlist.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT",The Jewellery Channel
+#EXTINF:0 group-title="SALES",The Jewellery Channel
 http://llnw.live.simplestream.com/coder3/coder.channels.channel18/hls/3/playlist.m3u8
 
-#EXTINF:0 group-title="ENTERTAINMENT",The Jewellery Channel Choice (Airs daily 2pm-6pm UK time – Infomercials all other times)
+#EXTINF:0 group-title="SALES",The Jewellery Channel Choice
 http://llnw.live.simplestream.com/coder3/coder.channels.channel2/hls/3/playlist.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT",Travel Channel (UK)
@@ -560,9 +554,6 @@ http://llnw.live.simplestream.com/coder4/coder.channels.channel8/hls/3/playlist.
 
 #EXTINF:0 group-title="MOVIES",True Movies 2
 http://llnw.live.simplestream.com/coder4/coder.channels.channel10/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",UC3
-http://llnw.live.simplestream.com/coder3/coder.channels.channel8/hls/3/playlist.m3u8
 
 #EXTINF:0 group-title="KIDS",CBBC
 http://llnw.live.simplestream.com/coder2/coder.channels.channel5/hls/3/playlist.m3u8
