@@ -21,7 +21,7 @@ http://185.56.30.127:8082/TV4134
 #EXTINF:-1 group-title="SPORT",PRO SPORT 3
 http://185.56.30.127:8082/TV4135
 
-#EXTINF:-1 tvg-id="Pop" tvg-logo="pop.png" group-title="MUSIC",POP
+#EXTINF:-1 tvg-id="Pop" tvg-logo="pop.png" group-title="KIDS",POP
 http://llnw.live.simplestream.com/coder4/coder.channels.channel14/hls/3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTV Live" tvg-logo="mtvlive.png" group-title="MUSIC",MTV Live HD
@@ -106,13 +106,16 @@ http://82.135.224.134:80/udp/239.100.3.6:1234
 rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base playpath=itv2tv.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php?v=aj1&vw=600&vh=450 token=%X886(nPK@#.
 
 #EXTINF:0 group-title="ENTERTAINMENT",ITV 3
-http://wpc.573d.edgecastcdn.net:80/00573D/live/enc0001/a-itv3/m3u8/a-itv3-1.m3u8
+http://94.198.255.211:5555/pl.m3u8?channel=91
 
 #EXTINF:0 group-title="ENTERTAINMENT",ITV 4
-rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base playpath=itv4tv.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php?v=itv_4&vw=600&vh=450 token=%X886(nPK@#.
+http://94.198.255.211:5555/pl.m3u8?channel=92
 
 #EXTINF:-1 group-title="ENTERTAINMENT",ITV choice
 http://185.27.237.105:8082/TV0055
+
+#EXTINF:-1 group-title="ENTERTAINMENT",E4
+http://94.198.255.211:5555/pl.m3u8?channel=93
 
 #EXTINF:-1 group-title="ENTERTAINMENT",London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
@@ -375,7 +378,7 @@ http://srv3.zoeweb.tv:1935/z133-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Rede TV.igor" tvg-logo="Rede-TV-HD.png" group-title="ENTERTAINMENT",REDE TV BR
 rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1
 
-#EXTINF:-1 tvg-id="TV Escola.igor" tvg-logo="TV-Escola.png" group-title="ENTERTAINMENT",TV ESCOLA BR
+#EXTINF:-1 tvg-id="TV Escola.igor" tvg-logo="TV-Escola.png" group-title="KIDS",TV ESCOLA BR
 http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
 
 #EXTINF:-1 group-title="SPORT",FOX SPORTS BRASIL
@@ -432,13 +435,13 @@ http://live-cdn.direct-stream.org:1935/live/_definst_/101010/Globo_SP_Anderson_E
 #EXTINF:-1 group-title="ENTERTAINMENT",Canal Do Boi Tv
 rtmp://srvvenus.canaldoboi.com/livecb/livestream
 
-#EXTINF:-1 group-title="ENTERTAINMENT",CARTOON NETWORK
+#EXTINF:-1 group-title="KIDS",CARTOON NETWORK
 rtmp://31.204.128.140/live/brlive_0028
 
 #EXTINF:-1 group-title="MOVIES",CINEMAX
 rtmp://31.204.128.140/live/53
 
-#EXTINF:-1 group-title="ENTERTAINMENT",DISCOVERY KIDS
+#EXTINF:-1 group-title="KIDS",DISCOVERY KIDS
 rtmp://31.204.128.74/live/master24
 
 #EXTINF:-1 group-title="ENTERTAINMENT",Extremadura TV
@@ -459,7 +462,7 @@ rtmp://31.204.153.72/live/fsb
 #EXTINF:-1 group-title="MOVIES",MEGAPIX
 rtmp://31.204.128.73/live/master11
 
-#EXTINF:-1 group-title="ENTERTAINMENT",NICKELODEON
+#EXTINF:-1 group-title="KIDS",NICKELODEON
 rtmp://31.204.128.140/live/brlive_0030
 
 #EXTINF:-1 group-title="ENTERTAINMENT",Rede Família
@@ -506,3 +509,9 @@ http://81.7.13.162/hls/ss3/index.m3u8
 
 #EXTINF:-1 group-title="SPORT",ESPN
 http://162.219.0.235:8000/udp/162.219.0.235:15140
+
+#EXTINF:-1 group-title="KIDS",Disney Channel
+http://94.198.255.211:5555/pl.m3u8?channel=16
+
+#EXTINF:-1 group-title="KIDS",Nickelodeon
+http://94.198.255.211:5555/pl.m3u8?channel=35
