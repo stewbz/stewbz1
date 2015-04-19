@@ -474,197 +474,188 @@ http://94.198.255.211:5555/pl.m3u8?channel=16
 #EXTINF:-1 group-title="KIDS",Nickelodeon
 http://94.198.255.211:5555/pl.m3u8?channel=35
 
-#EXTINF:0,BBC One
+#EXTINF:0 group-title="ENTERTAINMENT",BBC One
 http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
 
-#EXTINF:0,BBC Two
+#EXTINF:0 group-title="ENTERTAINMENT",BBC Two
 http://llnw.live.simplestream.com/mediaexcel01/channel02/3/prog_index.m3u8
 
-#EXTINF:0,BBC Three
+#EXTINF:0 group-title="ENTERTAINMENT",BBC Three
 http://llnw.live.simplestream.com/mediaexcel01/channel06/3/prog_index.m3u8
 
-#EXTINF:0,BBC Four
+#EXTINF:0 group-title="ENTERTAINMENT",BBC Four
 http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8
 
-#EXTINF:0,Box Nation
+#EXTINF:0 group-title="ENTERTAINMENT",Box Nation
 http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8
 
-#EXTINF:0,CBS Action
+#EXTINF:0 group-title="ENTERTAINMENT",CBS Action
 http://llnw.live.simplestream.com/coder4/coder.channels.channel2/hls/3/playlist.m3u8
 
-#EXTINF:0,Channel 4
+#EXTINF:0 group-title="ENTERTAINMENT",Channel 4
 http://llnw.live.simplestream.com/mediaexcel01/channel04/3/prog_index.m3u8
 
-#EXTINF:0,Channel 5
+#EXTINF:0 group-title="ENTERTAINMENT",Channel 5
 http://llnw.live.simplestream.com/mediaexcel01/channel05/3/prog_index.m3u8
 
-#EXTINF:0,Channel 5 +24
+#EXTINF:0 group-title="ENTERTAINMENT",Channel 5 +24
 http://llnw.live.simplestream.com/coder8/coder.channels.channel12/hls/3/playlist.m3u8
 
-#EXTINF:0,ITV1
+#EXTINF:0 group-title="ENTERTAINMENT",ITV1
 http://llnw.live.simplestream.com/mediaexcel01/channel03/3/prog_index.m3u8
 
-#EXTINF:0,ITV2
+#EXTINF:0 group-title="ENTERTAINMENT",ITV2
 http://llnw.live.simplestream.com/coder12/coder.channels.channel8/hls/3/playlist.m3u8
 
-#EXTINF:0,ITV3
+#EXTINF:0 group-title="ENTERTAINMENT",ITV3
 http://llnw.live.simplestream.com/coder12/coder.channels.channel10/hls/3/playlist.m3u8
 
-#EXTINF:0,ITV4
+#EXTINF:0 group-title="ENTERTAINMENT",ITV4
 http://llnw.live.simplestream.com/coder12/coder.channels.channel12/hls/3/playlist.m3u8
 
-#EXTINF:0,More 4
+#EXTINF:0 group-title="ENTERTAINMENT",More 4
 http://llnw.live.simplestream.com/coder8/coder.channels.channel2/hls/3/playlist.m3u8
 
-#EXTINF:0,Community Channel
+#EXTINF:0 group-title="ENTERTAINMENT",Community Channel
 http://llnw.live.simplestream.com/coder10/coder.channels.channel16/hls/3/playlist.m3u8
 
-#EXTINF:0,E4
+#EXTINF:0 group-title="ENTERTAINMENT",E4
 http://llnw.live.simplestream.com/coder10/coder.channels.channel21/hls/3/playlist.m3u8
 
-#EXTINF:0,Fashion TV
+#EXTINF:0 group-title="ENTERTAINMENT",Fashion TV
 http://llnw.live.simplestream.com/coder6/coder.channels.channel8/hls/3/playlist.m3u8
 
-#EXTINF:0,Film Four
+#EXTINF:0 group-title="MOVIES",Film Four
 http://llnw.live.simplestream.com/coder10/coder.channels.channel2/hls/3/playlist.m3u8
 
-#EXTINF:0,Film Four HD
+#EXTINF:0 group-title="MOVIES",Film Four HD
 http://78.129.175.72/live/film4/film4.m3u8
 
-#EXTINF:0,Food Network (UK)
+#EXTINF:0 group-title="ENTERTAINMENT",Food Network (UK)
 http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
 
-#EXTINF:0,Food Network +1 (UK)
+#EXTINF:0 group-title="ENTERTAINMENT",Food Network +1 (UK)
 http://llnw.live.simplestream.com/coder2/coder.channels.channel8/hls/3/playlist.m3u8
 
-#EXTINF:0,Horror Channel
+#EXTINF:0 group-title="ENTERTAINMENT",Horror Channel
 http://llnw.live.simplestream.com/coder4/coder.channels.channel6/hls/3/playlist.m3u8
 
-#EXTINF:0,Horse & Country
+#EXTINF:0 group-title="ENTERTAINMENT",Horse & Country
 http://llnw.live.simplestream.com/coder3/coder.channels.channel5/hls/3/playlist.m3u8
 
-#EXTINF:0,The Jewellery Channel
+#EXTINF:0 group-title="ENTERTAINMENT",The Jewellery Channel
 http://llnw.live.simplestream.com/coder3/coder.channels.channel18/hls/3/playlist.m3u8
 
-#EXTINF:0,The Jewellery Channel Choice (Airs daily 2pm-6pm UK time – Infomercials all other times)
+#EXTINF:0 group-title="ENTERTAINMENT",The Jewellery Channel Choice (Airs daily 2pm-6pm UK time – Infomercials all other times)
 http://llnw.live.simplestream.com/coder3/coder.channels.channel2/hls/3/playlist.m3u8
 
-#EXTINF:0,Travel Channel (UK)
+#EXTINF:0 group-title="ENTERTAINMENT",Travel Channel (UK)
 http://llnw.live.simplestream.com/coder6/coder.channels.channel12/hls/3/playlist.m3u8
 
-#EXTINF:0,Travel Channel +1 (UK)
+#EXTINF:0 group-title="ENTERTAINMENT",Travel Channel +1 (UK)
 http://llnw.live.simplestream.com/coder6/coder.channels.channel14/hls/3/playlist.m3u8
 
-#EXTINF:0,True Movies 1
+#EXTINF:0 group-title="MOVIES",True Movies 1
 http://llnw.live.simplestream.com/coder4/coder.channels.channel8/hls/3/playlist.m3u8
 
-#EXTINF:0,True Movies 2
+#EXTINF:0 group-title="MOVIES",True Movies 2
 http://llnw.live.simplestream.com/coder4/coder.channels.channel10/hls/3/playlist.m3u8
 
-#EXTINF:0,UC3
+#EXTINF:0 group-title="ENTERTAINMENT",UC3
 http://llnw.live.simplestream.com/coder3/coder.channels.channel8/hls/3/playlist.m3u8
 
-#EXTINF:0,CBBC
+#EXTINF:0 group-title="KIDS",CBBC
 http://llnw.live.simplestream.com/coder2/coder.channels.channel5/hls/3/playlist.m3u8
 
-#EXTINF:0,CBeebies
+#EXTINF:0 group-title="KIDS",CBeebies
 http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8
 
-#EXTINF:0,Citv
+#EXTINF:0 group-title="KIDS",Citv
 http://llnw.live.simplestream.com/coder8/coder.channels.channel5/hls/3/playlist.m3u8
 
-#EXTINF:0,Tiny Pop
+#EXTINF:0 group-title="KIDS",Tiny Pop
 http://llnw.live.simplestream.com/coder4/coder.channels.channel12/hls/3/playlist.m3u8
 
-#EXTINF:0,Pop
+#EXTINF:0 group-title="KIDS",Pop
 http://llnw.live.simplestream.com/coder4/coder.channels.channel14/hls/3/playlist.m3u8
 
-#EXTINF:0,Smash Hits
+#EXTINF:0 group-title="MUSIC",Smash Hits
 http://llnw.live.simplestream.com/coder9/coder.channels.channel2/hls/3/playlist.m3u8
 
-#EXTINF:0,4 Music
+#EXTINF:0 group-title="MUSIC",4 Music
 http://llnw.live.simplestream.com/coder9/coder.channels.channel16/hls/3/playlist.m3u8
 
-#EXTINF:0,Heat
+#EXTINF:0 group-title="MUSIC",Heat
 http://llnw.live.simplestream.com/coder9/coder.channels.channel88/hls/3/playlist.m3u8
 
-#EXTINF:0,The BOX
+#EXTINF:0 group-title="MUSIC",The BOX
 http://llnw.live.simplestream.com/coder9/coder.channels.channel12/hls/3/playlist.m3u8
 
-#EXTINF:0,Planet Pop
+#EXTINF:0 group-title="MUSIC",Planet Pop
 http://llnw.live.simplestream.com/coder8/coder.channels.channel11/hls/3/playlist.m3u8
 
-#EXTINF:0,Kiss
+#EXTINF:0 group-title="MUSIC",Kiss
 http://llnw.live.simplestream.com/coder9/coder.channels.channel14/hls/3/playlist.m3u8
 
-#EXTINF:0,Capital TV
+#EXTINF:0 group-title="MUSIC",Capital TV
 http://llnw.live.simplestream.com/coder7/coder.channels.channel8/hls/3/playlist.m3u8
 
-#EXTINF:0,Heart TV
+#EXTINF:0 group-title="MUSIC",Heart TV
 http://llnw.live.simplestream.com/coder7/coder.channels.channel10/hls/3/playlist.m3u8
 
-#EXTINF:0,Channel AKA
+#EXTINF:0 group-title="MUSIC",Channel AKA
 http://llnw.live.simplestream.com/coder6/coder.channels.channel2/hls/3/playlist.m3u8
 
-#EXTINF:0,Magic
+#EXTINF:0 group-title="MUSIC",Magic
 http://llnw.live.simplestream.com/coder11/coder.channels.channel2/hls/3/playlist.m3u8
 
-#EXTINF:0,Now That’s What I Call Music
+#EXTINF:0 group-title="MUSIC",Now That’s What I Call Music
 http://llnw.live.simplestream.com/coder6/coder.channels.channel5/hls/3/playlist.m3u8
 
-#EXTINF:0,Clubland
+#EXTINF:0 group-title="MUSIC",Clubland
 http://llnw.live.simplestream.com/coder2/coder.channels.channel11/hls/3/playlist.m3u8
 
-#EXTINF:0,London Live
+#EXTINF:0 group-title="ENTERTAINMENT",London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 
-#EXTINF:0,Bloomberg
+#EXTINF:0 group-title="NEWS",Bloomberg
 http://llnw.live.simplestream.com/coder5/coder.channels.channel9/hls/3/playlist.m3u8
 
-#EXTINF:0,Euronews
+#EXTINF:0 group-title="NEWS",Euronews
 http://llnw.live.simplestream.com/coder6/coder.channels.channel11/hls/3/playlist.m3u8
 
-#EXTINF:0,Sky News
+#EXTINF:0 group-title="NEWS",Sky News
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
 
-#EXTINF:0,Russia Today
+#EXTINF:0 group-title="NEWS",Russia Today
 http://llnw.live.simplestream.com/coder7/coder.channels.channel2/hls/3/playlist.m3u8
 
-#EXTINF:0,Al Jazeera News (English)
+#EXTINF:0 group-title="NEWS",Al Jazeera News (English)
 http://llnw.live.simplestream.com/coder7/coder.channels.channel12/hls/3/playlist.m3u8
 
-#EXTINF:0,France 24 News (English)
+#EXTINF:0 group-title="NEWS",France 24 News (English)
 http://llnw.live.simplestream.com/coder7/coder.channels.channel14/hls/3/playlist.m3u8
 
-#EXTINF:0,NHK World
+#EXTINF:0 group-title="NEWS",NHK World
 http://llnw.live.simplestream.com/coder1/coder.channels.channel11/hls/3/playlist.m3u8
 
-#EXTINF:0,BBC News
+#EXTINF:0 group-title="NEWS",BBC News
 http://llnw.live.simplestream.com/coder7/coder.channels.channel17/hls/3/playlist.m3u8
 
-#EXTINF:0,GOD Channel
-http://llnw.live.simplestream.com/coder10/coder.channels.channel23/hls/3/playlist.m3u8
-
-#EXTINF:0,Revelation TV
-http://llnw.live.simplestream.com/coder5/coder.channels.channel11/hls/3/playlist.m3u8
-
-#EXTINF:0,EWTN (Global Catholic Network)
-http://llnw.live.simplestream.com/coder4/coder.channels.channel4/hls/3/playlist.m3u8
-
-#EXTINF:0,BBC Alba
+#EXTINF:0 group-title="ENTERTAINMENT",BBC Alba
 http://llnw.live.simplestream.com/coder10/coder.channels.channel9/hls/3/playlist.m3u8
 
-#EXTINF:0,S4C
+#EXTINF:0 group-title="ENTERTAINMENT",S4C
 http://llnw.live.simplestream.com/coder6/coder.channels.channel6/hls/3/playlist.m3u8
 
-#EXTINF:0,4 Seven
+#EXTINF:0 group-title="ENTERTAINMENT",4 Seven
 http://llnw.live.simplestream.com/coder8/coder.channels.channel6/hls/3/playlist.m3u8
 
-#EXTINF:0,5 Star
+#EXTINF:0 group-title="ENTERTAINMENT",5 Star
 http://llnw.live.simplestream.com/coder8/coder.channels.channel8/hls/3/playlist.m3u8
 
-#EXTINF:0,5 USA
+#EXTINF:0 group-title="ENTERTAINMENT",5 USA
 http://llnw.live.simplestream.com/coder8/coder.channels.channel14/hls/3/playlist.m3u8
 
-#EXTINF:0,At The Races
+#EXTINF:0 group-title="SPORT",At The Races
 http://llnw.live.simplestream.com/coder1/coder.channels.channel2/hls/1/playlist.m3u8
