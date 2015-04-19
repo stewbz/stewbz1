@@ -12,6 +12,9 @@ http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?
 #EXTINF:-1 group-title="SPORT",Fox Sport News
 http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_2128_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 group-title="SPORT",Fox Sport News 1
+http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_1096_av-p.m3u8?husham.com
+
 #EXTINF:-1 group-title="SPORT",PRO SPORT 1
 http://185.56.30.127:8082/TV4133
 
@@ -366,6 +369,9 @@ mmsh://212.162.68.163:80/raisport2
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" group-title="ENTERTAINMENT",SIC PT
 http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
 
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="Tvi_logo.png" group-title="ENTERTAINMENT",TVI PT
+http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="ESPN.png" group-title="SPORT",ESPN HD SP
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?IGOR_RANGEL
  
@@ -461,6 +467,13 @@ http://81.7.13.162/hls/ss3/index.m3u8
 
 #EXTINF:-1 group-title="SPORT",ESPN
 http://162.219.0.235:8000/udp/162.219.0.235:15140
+
+#EXTINF:-1 group-title="SPORT",ESPN
+http://162.219.0.235:8000/udp/162.219.0.235:15140
+
+#EXTINF:-1 group-title="MOVIES",Pink 3
+http://pinkovi.hits2hits.com/fastv_2psh/PinkAction3global_rly_greece_103/chunklist.m3u8
+
 
 #EXTINF:-1 group-title="KIDS",Disney Channel
 http://94.198.255.211:5555/pl.m3u8?channel=16
@@ -650,3 +663,295 @@ http://llnw.live.simplestream.com/coder8/coder.channels.channel14/hls/3/playlist
 
 #EXTINF:0 group-title="SPORT",At The Races
 http://llnw.live.simplestream.com/coder1/coder.channels.channel2/hls/1/playlist.m3u8
+
+#EXTINF:0 group-title="NEWS", CNN
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+
+#EXTINF:-1 group-title="MOVIES", Fox Action Movies HD
+http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h
+
+#EXTINF:-1 group-title="MOVIES", Fox Movies Premium HD
+http://103.242.13.67:5000/nn_live.ts?id=foxmovies-m-h
+
+#EXTINF:-1 tvg-logo="Fox Premiers.png" group-title="MOVIES", FOX MOVIES HD (US)
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="Fox Action.png group-title="MOVIES", Fox Action (US)
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="FOX CINEMA.png group-title="MOVIES", FOX CINEMA (US)
+http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="FILM ZONE HD.png group-title="MOVIES", FILM ZONE HD (US)
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+
+#EXTINF:-1 group-title="SPORT",Saudi Arabia Sport
+http://intigral_live-lh.akamaihd.net/i/DPS2KCCAHLXSHB010514_1@135296/index_1200_av-p.m3u8
+
+#EXTINF:-1 group-title="MOVIES",OsN COMEDY +2
+http://185.27.237.105:8082/TV0021
+
+#EXTINF:-1 group-title="MOVIES",OMN movie drama
+http://185.27.237.105:8082/TV0022
+
+#EXTINF:-1 group-title="MOVIES",OSN movie hd
+http://185.27.237.105:8082/TV0023
+
+#EXTINF:-1 group-title="MOVIES",OSN movie hd +1
+http://185.27.237.105:8082/TV0024
+
+#EXTINF:-1 group-title="MOVIES",OSN movie hd +2
+http://185.27.237.105:8082/TV0025
+
+#EXTINF:-1 group-title="MOVIES",mgm
+http://185.27.237.105:8082/TV0050
+
+#EXTINF:-1 group-title="MOVIES",star movie hd
+http://185.27.237.105:8082/TV0051
+
+#EXTINF:-1 group-title="MOVIES",omn movie
+http://185.27.237.105:8082/TV0053
+
+#EXTINF:-1 group-title="MOVIES",oSn movie hd +2
+http://185.27.237.105:8082/TV0054
+
+#EXTINF:-1 group-title="MUSIC",Flava
+http://212.70.155.243:40665/udp/237.100.0.173:4000
+
+#EXTINF:-1 group-title="MUSIC",Bliss
+http://212.70.155.243:40665/udp/237.100.0.174:4000
+
+#EXTINF:-1 group-title="MUSIC",Scuzz
+http://212.70.155.243:40665/udp/237.100.0.175:4000
+
+#EXTINF:-1 group-title="MUSIC",Chart Show Dance
+http://212.70.155.243:40665/udp/237.100.0.176:4000
+
+#EXTINF:-1 group-title="MOVIES",True Entertainment
+http://212.70.155.243:40665/udp/237.100.0.189:4000
+
+#EXTINF:-1 group-title="MOVIES",True Drama
+http://212.70.155.243:40665/udp/237.100.0.190:4000
+
+#EXTINF:-1 group-title="NEWS",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:-1 group-title="MUSIC",Partytv Eska HD
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+
+#EXTINF:-1 group-title="KIDS", NICK HD SP
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
+
+#EXTINF:-1 group-title="KIDS", NICK SP
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?
+
+#EXTINF:-1 group-title="KIDS", CARTOON NETWORK SP
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="KIDS", DISNEY XD SP
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="KIDS", BOOMERANG SP
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="KIDS", TOONCAST SP
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
+
+#EXTINF:-1 group-title="ENTERTAINMENT", TIIN SP
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="DOCUMENTARY", DISCOVERY HD SP
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="DOCUMENTARY", HISTORY SP
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="DOCUMENTARY", NAT GEO WILD SP
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="DOCUMENTARY", TLC HD SP
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="DOCUMENTARY", DISCOVERY SP
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="DOCUMENTARY", ANIMAL PLANET SP
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="DOCUMENTARY", NAT GEO SP
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="DOCUMENTARY", TCM SP
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?
+
+#EXTINF:-1 group-title="ENTERTAINMENT", MBC Action AR
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+
+#EXTINF:0 group-title="MOVIES",MBC2 HD
+http://63.237.48.3/ios/MBC2/MBC2.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT",MBC_4
+http://63.237.48.8/ios/MBC_4/MBC_4.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY",National Geographic HD
+http://103.242.13.67:5000/nn_live.ts?id=nationalgeographic-m-h
+
+#EXTINF:-1 group-title="MOVIES",OSN COMEDY +2
+http://185.27.237.105:8082/TV0021
+ 
+#EXTINF:-1 group-title="MOVIES",OMN YAHALA HD +2
+http://185.27.237.105:8082/TV0065
+ 
+#EXTINF:-1 group-title="MOVIES",OMN MOVIE DRAMA
+http://185.27.237.105:8082/TV0022
+ 
+#EXTINF:-1 group-title="MOVIES",OMN HD 1
+http://185.27.237.105:8082/TV0023
+ 
+#EXTINF:-1 group-title="MOVIES",OMN HD 2
+http://185.27.237.105:8082/TV0024
+ 
+#EXTINF:-1 group-title="MOVIES",OMN ACTION HD 3
+http://185.27.237.105:8082/TV0025
+
+#EXTINF:-1 group-title="MOVIES",OMN KIDS HD 6
+http://185.27.237.105:8082/TV0053
+ 
+#EXTINF:-1 group-title="MOVIES",Star MOVIE HD
+http://185.27.237.105:8082/TV0051
+ 
+#EXTINF:-1 group-title="MOVIES",OMN YAHALLA HD AR  
+http://185.27.237.105:8082/TV0064
+ 
+#EXTINF:-1 group-title="MOVIES",OMN MOVIE HD +2
+http://185.27.237.105:8082/TV0054
+
+#EXTINF:-1 group-title="MOVIES",OMN MOVIE DRAMA +2
+http://185.27.237.105:8082/TV0075
+ 
+#EXTINF:-1 group-title="MOVIES",OMN FIRST HD
+http://185.27.237.105:8082/TV0063
+
+#EXTINF:-1 group-title="MOVIES",OMN YAHALAH CHABAB HD
+http://185.27.237.105:8082/TV0052
+ 
+#EXTINF:-1 group-title="MOVIES",OMN YAHALLA AR
+http://185.27.237.105:8082/TV0065
+ 
+#EXTINF:-1 group-title="MOVIES",OMN FIRST MORE HD
+http://185.27.237.105:8082/TV0084
+
+#EXTINF:-1 group-title="MOVIES",OSN 2 Film
+http://185.27.237.105:8082/TV0062
+
+#EXTINF:-1 group-title="MOVIES",star OSN
+http://185.27.237.105:8082/TV0056
+
+#EXTINF:-1 group-title="MOVIES",MGM
+http://185.27.237.105:8082/TV0050
+
+#EXTINF:0 group-title="SPORT",ESPN SD
+http://50.7.69.186:1935/edge/_definst_/erooxo5dcvk05zk/chunklist.m3u8?wowzasessionid=1426891013
+
+#EXTINF:0 group-title="SPORT",ESPN 2 SD
+http://50.7.69.186:1935/edge/_definst_/5hd19kwxef5b59o/chunklist.m3u8?wowzasessionid=1420159722
+
+#EXTINF:0 group-title="MOVIES",HBO Comedy
+http://50.7.69.186:1935/edge/_definst_/a1wn1j3ra1w0cv0/chunklist.m3u8?wowzasessionid=1419915335
+
+#EXTINF:0 group-title="MOVIES",HBO SD
+http://50.7.69.186:1935/edge/_definst_/qzbbu26gcvjxksz/chunklist.m3u8?wowzasessionid=1419847602
+
+#EXTINF:0 group-title="DOCUMENTARY",Nat GEO HD
+http://50.7.69.186:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
+
+#EXTINF:0 group-title="SPORT",NBA Sport
+http://50.7.69.186:1935/edge/_definst_/fzasab6vz02yuf7/chunklist.m3u8?wowzasessionid=1419914830
+
+#EXTINF:0 group-title="SPORT",NBC SD
+http://50.7.69.186:1935/edge/_definst_/s5whw37nl7weedp/chunklist.m3u8?wowzasessionid=1420160473
+
+#EXTINF:0 group-title="DOCUMENTARY",Science HD
+http://50.7.69.186:1935/edge/_definst_/00t250wv1d4ltib/playlist.m3u8?wowzasessionid=1420249487
+
+#EXTINF:-1 group-title="HUNGARY", M1 HD
+http://212.40.98.166/intstreams/mtva/mtv1live.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="HUNGARY", M2 HD
+http://212.40.98.166/intstreams/mtva/mtv2live.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="HUNGARY", Duna World
+http://212.40.98.166/intstreams/mtva/dunaworldlive.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="HUNGARY", Duna
+http://212.40.98.166/intstreams/mtva/dunalive.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="HUNGARY",Euronews (EN)
+http://152.66.115.226:8090/bysid/213
+
+#EXTINF:-1 group-title="HUNGARY",Info
+http://152.66.115.226:8090/bysid/214
+
+#EXTINF:-1 group-title="HUNGARY",RTL Klub
+http://152.66.115.226:8090/bysid/20
+
+#EXTINF:-1 group-title="HUNGARY",m2
+http://152.66.115.226:8090/bysid/40
+
+#EXTINF:-1 tvg-logo="sportv.png" tvg-id="BRASILIPTV - SporTV" tvg-logo="http://updroids.qlix.com.br/logos/sportv.png" group-title="SPORT BR", SPORTV BR
+http://62.210.89.38:1935/liverepeat/201020/live.m3u8?BRASILIPTV
+
+#EXTINF:-1 tvg-logo="foxsports.png" tvg-id="BRASILIPTV" tvg-logo="http://updroids.qlix.com.br/logos/foxsports.png" group-title="SPORT BR", Fox Sports BR
+http://62.210.89.38:8081/livehd/foxsportshd/playlist.m3u8?BRASILIPTV
+
+#EXTINF:-1 tvg-logo="esporteinterativo.png" tvg-id="BRASILIPTV - Esporte Interativo" tvg-logo="http://updroids.qlix.com.br/logos/esporteinterativo.png" group-title="SPORT BR", Esporte Interativo HD BR
+http://wowzaprodhd4-lh.akamaihd.net/i/68baf6c5_1@42717/master.m3u8
+
+#EXTINF:-1 tvg-logo="pfc.png" tvg-id="BRASILIPTV - Premiere Futebol Clube" tvg-logo="http://updroids.qlix.com.br/logos/pfc.png" group-title="SPORT BR", PREMIERE 1 (PFC EM DIAS DE JOGOS)
+http://62.210.89.38:1935/liverepeat/fut01/live.m3u8?BRASILIPTV
+
+#EXTINF:-1 tvg-logo="pfc.png" tvg-id="BRASILIPTV - Premiere Futebol Clube" tvg-logo="http://updroids.qlix.com.br/logos/pfc.png" group-title="SPORT BR", PREMIERE 2 (PFC EM DIAS DE JOGOS)
+http://62.210.89.38:1935/liverepeat/fut02/live.m3u8?BRASILIPTV
+
+#EXTINF:-1 tvg-logo="pfc.png" tvg-id="BRASILIPTV - Premiere Futebol Clube" tvg-logo="http://updroids.qlix.com.br/logos/pfc.png" group-title="SPORT BR", PREMIERE 3 (PFC EM DIAS DE JOGOS)
+http://62.210.83.152:1935/liverepeat/101010/playlist.m3u8?BRASILIPTV
+
+#EXTINF:-1 tvg-logo="pfc.png" tvg-id="BRASILIPTV - Premiere Futebol Clube" tvg-logo="http://updroids.qlix.com.br/logos/pfc.png" group-title="SPORT BR", PREMIERE 4 (PFC EM DIAS DE JOGOS)
+http://62.210.83.152:1935/liverepeat/101010/playlist.m3u8?BRASILIPTV
+
+#EXTINF:-1 tvg-logo="pfc.png" tvg-id="BRASILIPTV - Premiere Futebol Clube" tvg-logo="http://updroids.qlix.com.br/logos/pfc.png" group-title="SPORT BR", PREMIERE 5 (PFC EM DIAS DE JOGOS)
+http://62.210.89.38:1935/liverepeat/fut05/live.m3u8?BRASILIPTV
+
+#EXTINF:-1 tvg-logo="pfc.png" tvg-id="BRASILIPTV - Premiere Futebol Clube" tvg-logo="http://updroids.qlix.com.br/logos/pfc.png" group-title="SPORT BR", PREMIERE 6 (PFC EM DIAS DE JOGOS)
+http://62.210.89.38:1935/liverepeat/fut06/live.m3u8?BRASILIPTV
+
+#EXTINF:-1 tvg-logo="pfc.png" tvg-id="BRASILIPTV - Premiere Futebol Clube" tvg-logo="http://updroids.qlix.com.br/logos/pfc.png" group-title="SPORT BR", PREMIERE 7 (PFC EM DIAS DE JOGOS)
+http://62.210.89.38:1935/liverepeat/fut07/live.m3u8?BRASILIPTV
+
+#EXTINF:-1 tvg-logo="pfc.png" tvg-id="BRASILIPTV - Premiere Futebol Clube" tvg-logo="http://updroids.qlix.com.br/logos/pfc.png" group-title="SPORT BR", PREMIERE 8 (PFC EM DIAS DE JOGOS)
+http://62.210.89.38:1935/liverepeat/201020/live.m3u8?BRASILIPTV
+
+#EXTINF:-1 tvg-logo="pfc.png" tvg-id="BRASILIPTV - Premiere Futebol Clube" tvg-logo="http://updroids.qlix.com.br/logos/pfc.png" group-title="SPORT BR", PREMIERE 9 (PFC EM DIAS DE JOGOS)
+http://62.210.89.38:1935/liverepeat/fut09/live.m3u8?BRASILIPTV
+
+#EXTINF:-1 tvg-logo="pfc.png" tvg-id="BRASILIPTV - Premiere Futebol Clube" tvg-logo="http://updroids.qlix.com.br/logos/pfc.png" group-title="SPORT BR", PREMIERE 10 (PFC EM DIAS DE JOGOS)
+http://62.210.89.38:1935/liverepeat/fut1022842/live.m3u8?BRASILIPTV
+
+#EXTINF:-1 tvg-logo="pfc.png" tvg-id="BRASILIPTV - Premiere Futebol Clube" tvg-logo="http://updroids.qlix.com.br/logos/pfc.png" group-title="SPORT BR", PREMIERE 11 (PFC EM DIAS DE JOGOS)
+http://62.210.89.38:1935/liverepeat/fut1123402/live.m3u8?BRASILIPTV
+
+#EXTINF:-1 tvg-logo="pfc.png" tvg-id="BRASILIPTV - Premiere Futebol Clube" tvg-logo="http://updroids.qlix.com.br/logos/pfc.png" group-title="SPORT BR", PREMIERE 12 (PFC EM DIAS DE JOGOS)
+http://62.210.89.38:1935/liverepeat/fut12/live.m3u8?BRASILIPTV
+
+#EXTINF:-1 tvg-logo="foxsports.png" tvg-id="" tvg-logo="http://updroids.qlix.com.br/logos/foxsports.png" group-title="SPORT", Fox Sports HD(ING) 
+http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8?BRASILIPTV
+
+#EXTINF:-1 tvg-logo="foxsports2.png" tvg-id="" tvg-logo="http://updroids.qlix.com.br/logos/foxsports2.png" group-title="SPORT", Fox Sports 2 HD(ING) 
+http://103.242.13.66:5000/nn_live.ts?id=starsport-m-h?BRASILIPTV
+
+#EXTINF:-1 tvg-logo="foxsports.png" tvg-id="" tvg-logo="http://updroids.qlix.com.br/logos/foxsports.png" group-title="SPORT", Fox Sports 3 HD(ING)
+http://fsplive_hls-lh.akamaihd.net/i/fsp_HLSlive05_1@123460/index_1200_av-p.m3u8?BRASILIPTV
+
+#EXTINF:-1 tvg-logo="hollywood.png" tvg-id="" tvg-logo="http://updroids.qlix.com.br/logos/hollywood.png" group-title="MOVIE", HOLLYWOOD PT
+http://noscdn1.connectedviews.com:1935/live/hollywood.stream/livestream.m3u8?BRASILIPTV
+
