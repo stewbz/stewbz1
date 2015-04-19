@@ -168,12 +168,6 @@ http://185.56.30.123:8082/TV4248
 #EXTINF:0 group-title="MOVIES",Sky Movies SciFi 2nd
 http://185.56.30.123:8082/TV4249
 
-#EXTINF:-1 group-title="SPORT",British Eurosport 1
-rtmp://80.82.64.140:443/liverepeater playpath=28 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=22&width=600&height=450 token=#atd%#$ZH
- 
-#EXTINF:-1 group-title="SPORT",British Eurosport 2
-rtmp://80.82.78.26:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=15&width=620&height=490 token=#atd%#$ZH
-
 #EXTINF:-1 tvg-id="I867.164718905.microsoft.com" tvg-logo="BANDMAX.png" group-title="MUSIC",BANDAMAX HD
 http://200.76.77.237/LIVE/H01/CANAL732/PROFILE02.m3u8?
 
@@ -501,15 +495,6 @@ http://185.56.30.127:8082/TV4016
 #EXTINF:-1 group-title="SPORT",beIN 2
 http://185.56.30.127:8082/TV4017
 
-#EXTINF:-1 group-title="SPORT",beIN 12
-http://185.56.30.127:8082/TV4012
-
-#EXTINF:-1 group-title="SPORT",beIN 13 FR
-http://185.56.30.127:8082/TV4013
-
-#EXTINF:-1 group-title="SPORT",beIN 14 FR
-http://185.56.30.127:8082/TV4014
-
 #EXTINF:-1 group-title="SPORT",Super sport 1
 http://81.7.13.162/hls/ss1/index.m3u8
 
@@ -521,40 +506,3 @@ http://81.7.13.162/hls/ss3/index.m3u8
 
 #EXTINF:-1 group-title="SPORT",ESPN
 http://162.219.0.235:8000/udp/162.219.0.235:15140
-
-#EXTINF:-1 group-title="SPORT",sky_sport 1
-rtmp://37.59.17.92:1935/live?idu=krichi_76194197100/sky_sport_1
-
-#EXTINF:-1 group-title="SPORT",sky_bundesliga_1
-rtmp://37.59.17.92:1935/live?idu=krichi_76194197100/sky_bundesliga_1
-
-#EXTINF:-1 group-title="SPORT",sky_sport_2
-rtmp://37.59.17.92:1935/live?idu=krichi_76194197100/sky_sport_2
-
-#EXTINF:-1 group-title="SPORT",Super Sport 1
-
-http://shqiplive.net/free/vlc/1.php?id=ss1
-
-#EXTINF:-1 group-title="SPORT",Super Sport 2
-
-http://shqiplive.net/free/vlc/1.php?id=ss2
-
-#EXTINF:-1 group-title="SPORT",Super Sport 3
-
-http://shqiplive.net/free/vlc/1.php?id=ss3
-
-#EXTINF:-1 group-title="SPORT",Super Sport 4
-
-http://shqiplive.net/free/vlc/1.php?id=ss4
-
-#‎EXTINF‬:-1 group-title="SPORT",PRO Sport 1
-
-http://185.56.30.127:8082/TV4133
-
-#EXTINF:-1 group-title="SPORT",PRO Sport 2
-
-http://185.56.30.127:8082/TV4134
-
-#EXTINF:-1 group-title="SPORT",PRO Sport 3
-
-http://185.56.30.127:8082/TV4135
