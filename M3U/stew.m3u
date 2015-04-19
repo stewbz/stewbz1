@@ -1,36 +1,5 @@
 ﻿#EXTM3U
 
-
-#EXTINF:-1 group-title="SPORT",Arena Sport 1
-http://netiptv.dyndns.tv:80/live?channelId=39&uid=6&deviceUser=dreamsat&devicePass=pro001
-
-#EXTINF:-1 group-title="SPORT",Arena Sport 2
-http://netiptv.dyndns.tv:80/live?channelId=40&uid=6&deviceUser=dreamsat&devicePass=pro001
-
-#EXTINF:-1 group-title="SPORT",Arena Sport 3
-http://netiptv.dyndns.tv:80/live?channelId=41&uid=6&deviceUser=dreamsat&devicePass=pro001
-
-#EXTINF:-1 group-title="SPORT",Arena Sport 4
-http://netiptv.dyndns.tv:80/live?channelId=80&uid=6&deviceUser=dreamsat&devicePass=pro001
-
-#EXTINF:-1 group-title="SPORT",Sport Klub 1
-http://netiptv.dyndns.tv:80/live?channelId=81&uid=6&deviceUser=dreamsat&devicePass=pro001
-
-#EXTINF:-1 group-title="SPORT",Sport Klub 2
-http://netiptv.dyndns.tv:80/live?channelId=42&uid=6&deviceUser=dreamsat&devicePass=pro001
-
-#EXTINF:-1 group-title="SPORT",Sport Klub 3
-http://netiptv.dyndns.tv:80/live?channelId=43&uid=6&deviceUser=dreamsat&devicePass=pro001
-
-#EXTINF:0 group-title="SPORT",SportsNet360
-http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
-
-#EXTINF: -1 group-title="SPORT",Eurosport
-http://146.158.123.198:4022/udp/239.72.6.50:1234
-
-#EXTINF: -1 group-title="SPORT",Eurosport 2
-http://146.158.123.198:4022/udp/239.72.6.51:1234
-
 #EXTINF:-1 group-title="SPORT",ESPN 1080p
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?
 
@@ -552,3 +521,40 @@ http://81.7.13.162/hls/ss3/index.m3u8
 
 #EXTINF:-1 group-title="SPORT",ESPN
 http://162.219.0.235:8000/udp/162.219.0.235:15140
+
+#EXTINF:-1 group-title="SPORT",sky_sport 1
+rtmp://37.59.17.92:1935/live?idu=krichi_76194197100/sky_sport_1
+
+#EXTINF:-1 group-title="SPORT",sky_bundesliga_1
+rtmp://37.59.17.92:1935/live?idu=krichi_76194197100/sky_bundesliga_1
+
+#EXTINF:-1 group-title="SPORT",sky_sport_2
+rtmp://37.59.17.92:1935/live?idu=krichi_76194197100/sky_sport_2
+
+#EXTINF:-1 group-title="SPORT",Super Sport 1
+
+http://shqiplive.net/free/vlc/1.php?id=ss1
+
+#EXTINF:-1 group-title="SPORT",Super Sport 2
+
+http://shqiplive.net/free/vlc/1.php?id=ss2
+
+#EXTINF:-1 group-title="SPORT",Super Sport 3
+
+http://shqiplive.net/free/vlc/1.php?id=ss3
+
+#EXTINF:-1 group-title="SPORT",Super Sport 4
+
+http://shqiplive.net/free/vlc/1.php?id=ss4
+
+#‎EXTINF‬:-1 group-title="SPORT",PRO Sport 1
+
+http://185.56.30.127:8082/TV4133
+
+#EXTINF:-1 group-title="SPORT",PRO Sport 2
+
+http://185.56.30.127:8082/TV4134
+
+#EXTINF:-1 group-title="SPORT",PRO Sport 3
+
+http://185.56.30.127:8082/TV4135
