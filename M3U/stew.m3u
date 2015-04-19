@@ -78,50 +78,8 @@ http://200.76.77.237/LIVE/H01/CANAL703/PROFILE02.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="VH1CLASSIC.png group-title="MUSIC",VH1 Classic
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/bw480000/playlist.m3u8?utcstart=1425965374.0639367
 
-#EXTINF:-1 group-title="ENTERTAINMENT",BBC 1
-http://37.220.29.186:8000/bbc1/bbc1/index.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT",BBC One London (stream 2)
-http://82.135.224.134:80/udp/239.100.3.1:1234
-
-#EXTINF:-1 group-title="ENTERTAINMENT",BBC One Scotland
-http://82.135.224.134:80/udp/239.100.3.2:1234
-
-#EXTINF:0 group-title="ENTERTAINMENT",BBC 2
-http://37.220.29.186:8000/bbc2/bbc2/index.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT",BBC Two England (stream 2)
-http://82.135.224.134:80/udp/239.100.3.3:1234
-
-#EXTINF:-1 group-title="ENTERTAINMENT",BBC Three
-http://82.135.224.134:80/udp/239.100.3.4:1234
-
-#EXTINF:-1 group-title="ENTERTAINMENT",BBC Four
-http://82.135.224.134:80/udp/239.100.3.5:1234
-
-#EXTINF:-1 group-title="ENTERTAINMENT",ITV 1 London
-http://82.135.224.134:80/udp/239.100.3.6:1234
-
-#EXTINF:0 group-title="ENTERTAINMENT",ITV 2
-rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base playpath=itv2tv.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php?v=aj1&vw=600&vh=450 token=%X886(nPK@#.
-
-#EXTINF:0 group-title="ENTERTAINMENT",ITV 3
-http://94.198.255.211:5555/pl.m3u8?channel=91
-
-#EXTINF:0 group-title="ENTERTAINMENT",ITV 4
-http://94.198.255.211:5555/pl.m3u8?channel=92
-
-#EXTINF:-1 group-title="ENTERTAINMENT",ITV choice
-http://185.27.237.105:8082/TV0055
-
-#EXTINF:-1 group-title="ENTERTAINMENT",E4
-http://94.198.255.211:5555/pl.m3u8?channel=93
-
 #EXTINF:-1 group-title="ENTERTAINMENT",London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-
-#EXTINF:-1 group-title="MOVIES",Film 4
-http://78.129.175.72/live/film4/film4.m3u8
 
 #EXTINF:0 group-title="MOVIES",Sky Movies Premiere
 http://91.109.20.227:8080/TV4251
@@ -515,3 +473,198 @@ http://94.198.255.211:5555/pl.m3u8?channel=16
 
 #EXTINF:-1 group-title="KIDS",Nickelodeon
 http://94.198.255.211:5555/pl.m3u8?channel=35
+
+#EXTINF:0,BBC One
+http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
+
+#EXTINF:0,BBC Two
+http://llnw.live.simplestream.com/mediaexcel01/channel02/3/prog_index.m3u8
+
+#EXTINF:0,BBC Three
+http://llnw.live.simplestream.com/mediaexcel01/channel06/3/prog_index.m3u8
+
+#EXTINF:0,BBC Four
+http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8
+
+#EXTINF:0,Box Nation
+http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8
+
+#EXTINF:0,CBS Action
+http://llnw.live.simplestream.com/coder4/coder.channels.channel2/hls/3/playlist.m3u8
+
+#EXTINF:0,Channel 4
+http://llnw.live.simplestream.com/mediaexcel01/channel04/3/prog_index.m3u8
+
+#EXTINF:0,Channel 5
+http://llnw.live.simplestream.com/mediaexcel01/channel05/3/prog_index.m3u8
+
+#EXTINF:0,Channel 5 +24
+http://llnw.live.simplestream.com/coder8/coder.channels.channel12/hls/3/playlist.m3u8
+
+#EXTINF:0,ITV1
+http://llnw.live.simplestream.com/mediaexcel01/channel03/3/prog_index.m3u8
+
+#EXTINF:0,ITV2
+http://llnw.live.simplestream.com/coder12/coder.channels.channel8/hls/3/playlist.m3u8
+
+#EXTINF:0,ITV3
+http://llnw.live.simplestream.com/coder12/coder.channels.channel10/hls/3/playlist.m3u8
+
+#EXTINF:0,ITV4
+http://llnw.live.simplestream.com/coder12/coder.channels.channel12/hls/3/playlist.m3u8
+
+#EXTINF:0,More 4
+http://llnw.live.simplestream.com/coder8/coder.channels.channel2/hls/3/playlist.m3u8
+
+#EXTINF:0,Community Channel
+http://llnw.live.simplestream.com/coder10/coder.channels.channel16/hls/3/playlist.m3u8
+
+#EXTINF:0,E4
+http://llnw.live.simplestream.com/coder10/coder.channels.channel21/hls/3/playlist.m3u8
+
+#EXTINF:0,Fashion TV
+http://llnw.live.simplestream.com/coder6/coder.channels.channel8/hls/3/playlist.m3u8
+
+#EXTINF:0,Film Four
+http://llnw.live.simplestream.com/coder10/coder.channels.channel2/hls/3/playlist.m3u8
+
+#EXTINF:0,Film Four HD
+http://78.129.175.72/live/film4/film4.m3u8
+
+#EXTINF:0,Food Network (UK)
+http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
+
+#EXTINF:0,Food Network +1 (UK)
+http://llnw.live.simplestream.com/coder2/coder.channels.channel8/hls/3/playlist.m3u8
+
+#EXTINF:0,Horror Channel
+http://llnw.live.simplestream.com/coder4/coder.channels.channel6/hls/3/playlist.m3u8
+
+#EXTINF:0,Horse & Country
+http://llnw.live.simplestream.com/coder3/coder.channels.channel5/hls/3/playlist.m3u8
+
+#EXTINF:0,The Jewellery Channel
+http://llnw.live.simplestream.com/coder3/coder.channels.channel18/hls/3/playlist.m3u8
+
+#EXTINF:0,The Jewellery Channel Choice (Airs daily 2pm-6pm UK time – Infomercials all other times)
+http://llnw.live.simplestream.com/coder3/coder.channels.channel2/hls/3/playlist.m3u8
+
+#EXTINF:0,Travel Channel (UK)
+http://llnw.live.simplestream.com/coder6/coder.channels.channel12/hls/3/playlist.m3u8
+
+#EXTINF:0,Travel Channel +1 (UK)
+http://llnw.live.simplestream.com/coder6/coder.channels.channel14/hls/3/playlist.m3u8
+
+#EXTINF:0,True Movies 1
+http://llnw.live.simplestream.com/coder4/coder.channels.channel8/hls/3/playlist.m3u8
+
+#EXTINF:0,True Movies 2
+http://llnw.live.simplestream.com/coder4/coder.channels.channel10/hls/3/playlist.m3u8
+
+#EXTINF:0,UC3
+http://llnw.live.simplestream.com/coder3/coder.channels.channel8/hls/3/playlist.m3u8
+
+#EXTINF:0,CBBC
+http://llnw.live.simplestream.com/coder2/coder.channels.channel5/hls/3/playlist.m3u8
+
+#EXTINF:0,CBeebies
+http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8
+
+#EXTINF:0,Citv
+http://llnw.live.simplestream.com/coder8/coder.channels.channel5/hls/3/playlist.m3u8
+
+#EXTINF:0,Tiny Pop
+http://llnw.live.simplestream.com/coder4/coder.channels.channel12/hls/3/playlist.m3u8
+
+#EXTINF:0,Pop
+http://llnw.live.simplestream.com/coder4/coder.channels.channel14/hls/3/playlist.m3u8
+
+#EXTINF:0,Smash Hits
+http://llnw.live.simplestream.com/coder9/coder.channels.channel2/hls/3/playlist.m3u8
+
+#EXTINF:0,4 Music
+http://llnw.live.simplestream.com/coder9/coder.channels.channel16/hls/3/playlist.m3u8
+
+#EXTINF:0,Heat
+http://llnw.live.simplestream.com/coder9/coder.channels.channel88/hls/3/playlist.m3u8
+
+#EXTINF:0,The BOX
+http://llnw.live.simplestream.com/coder9/coder.channels.channel12/hls/3/playlist.m3u8
+
+#EXTINF:0,Planet Pop
+http://llnw.live.simplestream.com/coder8/coder.channels.channel11/hls/3/playlist.m3u8
+
+#EXTINF:0,Kiss
+http://llnw.live.simplestream.com/coder9/coder.channels.channel14/hls/3/playlist.m3u8
+
+#EXTINF:0,Capital TV
+http://llnw.live.simplestream.com/coder7/coder.channels.channel8/hls/3/playlist.m3u8
+
+#EXTINF:0,Heart TV
+http://llnw.live.simplestream.com/coder7/coder.channels.channel10/hls/3/playlist.m3u8
+
+#EXTINF:0,Channel AKA
+http://llnw.live.simplestream.com/coder6/coder.channels.channel2/hls/3/playlist.m3u8
+
+#EXTINF:0,Magic
+http://llnw.live.simplestream.com/coder11/coder.channels.channel2/hls/3/playlist.m3u8
+
+#EXTINF:0,Now That’s What I Call Music
+http://llnw.live.simplestream.com/coder6/coder.channels.channel5/hls/3/playlist.m3u8
+
+#EXTINF:0,Clubland
+http://llnw.live.simplestream.com/coder2/coder.channels.channel11/hls/3/playlist.m3u8
+
+#EXTINF:0,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+#EXTINF:0,Bloomberg
+http://llnw.live.simplestream.com/coder5/coder.channels.channel9/hls/3/playlist.m3u8
+
+#EXTINF:0,Euronews
+http://llnw.live.simplestream.com/coder6/coder.channels.channel11/hls/3/playlist.m3u8
+
+#EXTINF:0,Sky News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+
+#EXTINF:0,Russia Today
+http://llnw.live.simplestream.com/coder7/coder.channels.channel2/hls/3/playlist.m3u8
+
+#EXTINF:0,Al Jazeera News (English)
+http://llnw.live.simplestream.com/coder7/coder.channels.channel12/hls/3/playlist.m3u8
+
+#EXTINF:0,France 24 News (English)
+http://llnw.live.simplestream.com/coder7/coder.channels.channel14/hls/3/playlist.m3u8
+
+#EXTINF:0,NHK World
+http://llnw.live.simplestream.com/coder1/coder.channels.channel11/hls/3/playlist.m3u8
+
+#EXTINF:0,BBC News
+http://llnw.live.simplestream.com/coder7/coder.channels.channel17/hls/3/playlist.m3u8
+
+#EXTINF:0,GOD Channel
+http://llnw.live.simplestream.com/coder10/coder.channels.channel23/hls/3/playlist.m3u8
+
+#EXTINF:0,Revelation TV
+http://llnw.live.simplestream.com/coder5/coder.channels.channel11/hls/3/playlist.m3u8
+
+#EXTINF:0,EWTN (Global Catholic Network)
+http://llnw.live.simplestream.com/coder4/coder.channels.channel4/hls/3/playlist.m3u8
+
+#EXTINF:0,BBC Alba
+http://llnw.live.simplestream.com/coder10/coder.channels.channel9/hls/3/playlist.m3u8
+
+#EXTINF:0,S4C
+http://llnw.live.simplestream.com/coder6/coder.channels.channel6/hls/3/playlist.m3u8
+
+#EXTINF:0,4 Seven
+http://llnw.live.simplestream.com/coder8/coder.channels.channel6/hls/3/playlist.m3u8
+
+#EXTINF:0,5 Star
+http://llnw.live.simplestream.com/coder8/coder.channels.channel8/hls/3/playlist.m3u8
+
+#EXTINF:0,5 USA
+http://llnw.live.simplestream.com/coder8/coder.channels.channel14/hls/3/playlist.m3u8
+
+#EXTINF:0,At The Races
+http://llnw.live.simplestream.com/coder1/coder.channels.channel2/hls/1/playlist.m3u8
