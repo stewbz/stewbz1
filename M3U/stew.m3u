@@ -952,6 +952,35 @@ http://103.242.13.66:5000/nn_live.ts?id=starsport-m-h?BRASILIPTV
 #EXTINF:-1 tvg-logo="foxsports.png" tvg-id="" tvg-logo="http://updroids.qlix.com.br/logos/foxsports.png" group-title="SPORT", Fox Sports 3 HD(ING)
 http://fsplive_hls-lh.akamaihd.net/i/fsp_HLSlive05_1@123460/index_1200_av-p.m3u8?BRASILIPTV
 
-#EXTINF:-1 tvg-logo="hollywood.png" tvg-id="" tvg-logo="http://updroids.qlix.com.br/logos/hollywood.png" group-title="MOVIE", HOLLYWOOD PT
+#EXTINF:-1 tvg-logo="hollywood.png" tvg-id="" tvg-logo="http://updroids.qlix.com.br/logos/hollywood.png" group-title="MOVIES", HOLLYWOOD PT
 http://noscdn1.connectedviews.com:1935/live/hollywood.stream/livestream.m3u8?BRASILIPTV
 
+#EXTINF:-1 group-title="SPORT",SKY SPORTS 1
+http://185.56.30.127:8082/TV4284
+
+#EXTINF:0 group-title="SPORT", BEIN SPORTS HD1 GERMAN
+http://91.109.20.227:8080/TV4001
+
+#EXTINF:0 group-title="SPORT", BEIN SPORTS HD1 FRENCH
+http://91.109.20.227:8080/TV4016
+
+#EXTINF:-1 group-title="DOCUMENTARY",Animal Planet
+http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028
+
+#EXTINF:-1 group-title="SPORT",Arena 3
+http://5.135.60.8/Alb/Albsports.com/33.ch
+
+#EXTINF:-1 group-title="SPORT",BEin MAX4
+http://5.135.60.8/Alb/Albsports.com/34.ch
+
+#EXTINF:-1 group-title="SPORT",BTSPORT 2
+http://5.135.60.8/Alb/Albsports.com/46.ch
+
+#EXTINF:-1 group-title="SPORT",ESPN USA
+http://5.135.60.8/Alb/Albsports.com/57.ch
+
+#EXTINF:-1 group-title="SPORT",ESPN USA
+http://5.135.60.8/Alb/Albsports.com/58.ch
+
+#EXTINF:-1 group-title="KIDS",Cartoon network
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
