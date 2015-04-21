@@ -990,3 +990,82 @@ http://212.70.155.243:40665/udp/237.100.0.75:4000
 
 #EXTINF:-1 group-title="SPORT",Sky Sports 2
 http://212.70.155.243:40665/udp/237.100.0.76:4000
+
+
+#EXTINF:-1 group-title="SPORT",Nickelodeon
+http://212.70.155.243:40665/udp/237.100.0.23:4000
+
+#EXTINF:-1 group-title="NEWS",CCTV NEWS
+http://212.70.155.243:40665/udp/237.100.0.25:4000
+
+#EXTINF:-1 group-title="MOVIES",TV 1000
+http://212.70.155.243:40665/udp/237.100.0.20:4000
+
+#EXTINF:-1 group-title="DOCUMENTARY",VIASAT HISTORY
+http://212.70.155.243:40665/udp/237.100.0.34:4000
+
+#EXTINF:-1 group-title="DOCUMENTARY",VIASAT NATURE
+http://212.70.155.243:40665/udp/237.100.0.37:4000
+
+#EXTINF:-1 group-title="DOCUMENTARY",ANIMAL PLANET
+http://212.70.155.243:40665/udp/237.100.0.39:4000
+
+#EXTINF:-1 group-title="SPORT",EUROSPORT
+http://212.70.155.243:40665/udp/237.100.0.52:4000
+
+#EXTINF:-1 group-title="SPORT",EUROSPORT 2
+http://212.70.155.243:40665/udp/237.100.0.53:4000
+
+#EXTINF:-1 group-title="SPORT",NOVO SPORT RU
+http://212.70.155.243:40665/udp/237.100.0.54:4000
+
+#EXTINF:-1 group-title="SPORT",RING BG RU
+http://212.70.155.243:40665/udp/237.100.0.55:4000
+
+#EXTINF:-1 group-title="NEWS",BLOOMBERG NEWS
+http://212.70.155.243:40665/udp/237.100.0.90:4000
+
+#EXTINF:-1 group-title="ENTERTAINMENT",RTP1 PT
+http://myplace.dnsalias.com:6262/live/pt/gratis/1.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",RTP2 PT
+http://myplace.dnsalias.com:6262/live/pt/gratis/2.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",RTP1 PT
+http://myplace.dnsalias.com:6262/live/pt/gratis/3.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",i PT
+http://myplace.dnsalias.com:6262/live/pt/gratis/4.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",Sico PT
+http://myplace.dnsalias.com:6262/live/pt/gratis/5.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",24 PT
+http://myplace.dnsalias.com:6262/live/pt/gratis/6.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",? PT
+http://myplace.dnsalias.com:6262/live/pt/gratis/7.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",? PT
+http://myplace.dnsalias.com:6262/live/pt/gratis/8.m3u8
+#EXTINF:-1 group-title="KIDS",panda PT
+http://myplace.dnsalias.com:6262/live/pt/gratis/9.m3u8
+#EXTINF:-1 group-title="KIDS",Disney junior PT
+http://myplace.dnsalias.com:6262/live/pt/gratis/10.m3u8
+#EXTINF:-1 group-title="KIDS",Disney PT
+http://myplace.dnsalias.com:6262/live/pt/gratis/11.m3u8
+#EXTINF:-1 group-title="SPORT",SPORT TV1 HD PT
+http://myplace.dnsalias.com:6262/live/pt/gratis/20.m3u8
+#EXTINF:-1 group-title="SPORT",SPORT TV2 PT
+http://myplace.dnsalias.com:6262/live/pt/gratis/21.m3u8
+#EXTINF:-1 group-title="SPORT",SPORT TV3 PT
+http://myplace.dnsalias.com:6262/live/pt/gratis/22.m3u8
+#EXTINF:-1 group-title="SPORT",SPORT TV4 PT
+http://myplace.dnsalias.com:6262/live/pt/gratis/23.m3u8
+#EXTINF:-1 group-title="SPORT",SPORT TV5 PT
+http://myplace.dnsalias.com:6262/live/pt/gratis/24.m3u8
+#EXTINF:-1 group-title="SPORT",3TV 1 PT
+http://myplace.dnsalias.com:6262/live/pt/gratis/25.m3u8
+#EXTINF:-1 group-title="SPORT",3TV PT
+http://myplace.dnsalias.com:6262/live/pt/gratis/26.m3u8
+#EXTINF:-1 group-title="SPORT",Sporting TV PT
+http://myplace.dnsalias.com:6262/live/pt/gratis/27.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",TVC1 PT
+http://myplace.dnsalias.com:6262/live/pt/gratis/28.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",TVC3 PT
+http://myplace.dnsalias.com:6262/live/pt/gratis/30.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",TVC4 PT
+http://myplace.dnsalias.com:6262/live/pt/gratis/31.m3u8
