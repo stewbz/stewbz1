@@ -1069,3 +1069,39 @@ http://myplace.dnsalias.com:6262/live/pt/gratis/28.m3u8
 http://myplace.dnsalias.com:6262/live/pt/gratis/30.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",TVC4 PT
 http://myplace.dnsalias.com:6262/live/pt/gratis/31.m3u8
+
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 1 HD AR
+http://2co1.vp9.tv/chn/bin01/v.m3u8
+
+#EXTINF:-1 group-title="KODI ONLY",Beinsport 1HD
+rtmp://180.250.29.12:1935/jhos/beib1_5
+#EXTINF:-1 group-title="KODI ONLY",Beinsport 1SD 1
+rtmp://180.250.29.12:1935/jhos/beib1_1
+#EXTINF:-1 group-title="KODI ONLY",Beinsport 1SD 2
+rtmp://180.250.29.12:1935/jhos/beib1_2
+#EXTINF:-1 group-title="KODI ONLY",Beinsport 1SD 3
+rtmp://180.250.29.12:1935/jhos/beib1_3
+#EXTINF:-1 group-title="KODI ONLY",Beinsport 1SD 4
+rtmp://180.250.29.12:1935/jhos/beib1_4
+
+#EXTINF:-1 group-title="KODI ONLY",Beinsport 2HD
+rtmp://180.250.29.12:1935/jhos/beib2_5
+#EXTINF:-1 group-title="KODI ONLY",Beinsport 2SD 1
+rtmp://180.250.29.12:1935/jhos/beib2_1
+#EXTINF:-1 group-title="KODI ONLY",Beinsport 2SD 2
+rtmp://180.250.29.12:1935/jhos/beib2_2
+#EXTINF:-1 group-title="KODI ONLY",Beinsport 2SD 3
+rtmp://180.250.29.12:1935/jhos/beib2_3
+#EXTINF:-1 group-title="KODI ONLY",Beinsport 2SD 4
+rtmp://180.250.29.12:1935/jhos/beib2_4
+
+#EXTINF:-1 group-title="KODI ONLY",Beinsport 3HD
+rtmp://180.250.29.12:1935/jhos/beib3_5
+#EXTINF:-1 group-title="KODI ONLY",Beinsport 3SD 1
+rtmp://180.250.29.12:1935/jhos/beib3_1
+#EXTINF:-1 group-title="KODI ONLY",Beinsport 3SD 2
+rtmp://180.250.29.12:1935/jhos/beib3_2
+#EXTINF:-1 group-title="KODI ONLY",Beinsport 3SD 3
+rtmp://180.250.29.12:1935/jhos/beib3_3
+#EXTINF:-1 group-title="KODI ONLY",Beinsport 3SD 4
+rtmp://180.250.29.12:1935/jhos/beib3_4
