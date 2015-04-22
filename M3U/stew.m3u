@@ -1105,3 +1105,19 @@ rtmp://180.250.29.12:1935/jhos/beib3_2
 rtmp://180.250.29.12:1935/jhos/beib3_3
 #EXTINF:-1 group-title="KODI ONLY",Beinsport 3SD 4
 rtmp://180.250.29.12:1935/jhos/beib3_4
+
+#EXTINF:-1,TELE5
+http://81.92.105.135:5555/pl.m3u8?channel=106
+
+
+#EXTINF:-1 group-title="ENTERTAINMENT",Spain:Antena 3
+http://uneapple-i.akamaihd.net/hls/live/205012/grupoune_st3@205012/st3_index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT",Spain:LaSexta HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1 group-title="SPORT",Spain:TVE 24h
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1 group-title="SPORT",Canal+ Liga De Campeones
+http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8?sd=10&rebase=on
