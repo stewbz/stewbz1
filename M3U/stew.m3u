@@ -312,15 +312,6 @@ http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2
 #EXTINF: 0 group-title="SPORT",Football 3 HD RU 
 http://46.61.226.18/hls/CH_FUTBALL3HD/bw3000000/variant.m3u8?version=2  
 
-#EXTINF:-1 group-title="SPORT",MBC PRO SPORTS 1 HD
-http://intigral_live-lh.akamaihd.net/i/DPS3CPCHILXAHL130215_1@135296/index_1200_av-b.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 group-title="SPORT",MBC PRO SPORTS 2 HD
-http://intigral_live-lh.akamaihd.net/i/DPS3SPLSHBXHIL220315_1@129126/index_1200_av-b.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 group-title="SPORT",MBC PRO SPORTS 3 HD
-http://intigral_live-lh.akamaihd.net/i/DPS3SPLSHOXTWN220315_1@301567/index_1200_av-b.m3u8?sd=10&rebase=on
-
 #EXTINF: 0 group-title="DOCUMENTARY",Nat Geo Wild HD RU
 http://46.61.226.18/hls/CH_C03_NATGEOWILDHD/bw3000000/variant.m3u8?version=2
 
@@ -333,20 +324,8 @@ http://46.61.226.18/hls/CH_C06_VIASATGOLFHD/bw3000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="SBT.igor" tvg-logo="SBT-HD.png" group-title="ENTERTAINMENT",SBT BR
 http://srv3.zoeweb.tv:1935/z133-live/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rede TV.igor" tvg-logo="Rede-TV-HD.png" group-title="ENTERTAINMENT",REDE TV BR
-rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1
-
 #EXTINF:-1 tvg-id="TV Escola.igor" tvg-logo="TV-Escola.png" group-title="KIDS",TV ESCOLA BR
 http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
-
-#EXTINF:-1 group-title="SPORT",FOX SPORTS BRASIL
-rtmp://31.204.153.71/live/master05?IGOR_RANGEL
-
-#EXTINF:-1 tvg-id="ESPN.igor" tvg-logo="ESPN.png" group-title="SPORT",ESPN
-rtmp://31.204.153.71/live/master06?IGOR_RANGEL
- 
-#EXTINF:-1 tvg-id="ESPN.igor" tvg-logo="ESPN.png" group-title="SPORT",ESPN1
-rtmp://76.73.108.33/edge playpath=espn  swfUrl=http://www.livestreamtv.biz/swfs/player.swf?IGOR_RANGEL  pageUrl=http://livestreamtv.biz/ live=true timeout=15
 
 #EXTINF:-1 tvg-id="Cine Brasil.igor" tvg-logo="Cinebrasiltv.png" group-title="MOVIES",CINEBRASIL
 http://62.210.83.180:1935/liverepeat/cinebrasil180/cinebrasil180/IGOR_RANGEL.m3u8
@@ -360,12 +339,6 @@ http://2co1.vp9.tv/chn/bin02/v.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="BeIN-3.png" group-title="SPORT",BEIN SPORTS 3
 http://2co1.vp9.tv/chn/bin03/v.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-logo="RAI%201.png" group-title="SPORT",RAI SPORT 1
-mmsh://212.162.68.163:80/raisport+
- 
-#EXTINF:-1 tvg-id="" tvg-logo="Rai2.png" group-title="SPORT",RAI SPORT 2
-mmsh://212.162.68.163:80/raisport2
-
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" group-title="ENTERTAINMENT",SIC PT
 http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
 
@@ -390,64 +363,16 @@ http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?IGOR_RANGEL
 #EXTINF:-1 tvg-id="Globo Nacional.ttwrs" tvg-logo="Globo%20HD.png" group-title="ENTERTAINMENT",GLOBO NORDESTE
 http://live-cdn.direct-stream.org:1935/live/_definst_/101010/Globo_SP_Anderson_Elias.m3u8?Grupo_UP_e_DOWN
 
-#EXTINF:-1 group-title="ENTERTAINMENT",Canal Do Boi Tv
-rtmp://srvvenus.canaldoboi.com/livecb/livestream
-
-#EXTINF:-1 group-title="KIDS",CARTOON NETWORK
-rtmp://31.204.128.140/live/brlive_0028
-
-#EXTINF:-1 group-title="MOVIES",CINEMAX
-rtmp://31.204.128.140/live/53
-
-#EXTINF:-1 group-title="KIDS",DISCOVERY KIDS
-rtmp://31.204.128.74/live/master24
-
 #EXTINF:-1 group-title="ENTERTAINMENT",Extremadura TV
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT",Extremadura TV 1
-rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live//stream1
-
-#EXTINF:-1 group-title="MUSIC",First Music HD 1080p
-rtmp://109.239.142.62/live/livestream3
-
-#EXTINF:-1 group-title="ENTERTAINMENT",FOX
-rtmp://31.204.128.140/live/fox
-
-#EXTINF:-1 group-title="SPORT",FOX SPORTS
-rtmp://31.204.153.72/live/fsb
-
-#EXTINF:-1 group-title="MOVIES",MEGAPIX
-rtmp://31.204.128.73/live/master11
-
-#EXTINF:-1 group-title="KIDS",NICKELODEON
-rtmp://31.204.128.140/live/brlive_0030
-
-#EXTINF:-1 group-title="ENTERTAINMENT",Rede Família
-rtsp://srv3.ntelecom.com.br/redefamilia
-
-#EXTINF:-1 group-title="ENTERTAINMENT",Rede Minas
-rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
-
-#EXTINF:-1 group-title="MOVIES",TC ACTION
-rtmp://31.204.128.75/live/master17
-
-#EXTINF:-1 group-title="MOVIES",TC PIPOCA
-rtmp://31.204.128.74/live/master18
-
-#EXTINF:-1 group-title="MOVIES",TC PREMIUM
-rtmp://31.204.128.140/live/master19
 
 #EXTINF:-1 group-title="ENTERTAINMENT",TV MANÁ BRASIL
 http://195.22.19.189:1935/tvbr/tvbrasil2/hasbahca.m3u8
 
-#EXTINF:-1 group-title="MOVIES",UNIVERSAL
-rtmp://31.204.128.75/live/master20
-
-#‎EXTINF‬:-1 group-title="SPORT",Beinsport 1HD
+#‎EXTINF‬:-1 group-title="KODI ONLY",Beinsport 1HD
 rtmp://180.250.29.12:1935/jhos/beib1_5
 
-#EXTINF:-1 group-title="SPORT",Beinsport 2HD
+#EXTINF:-1 group-title="KODI ONLY",Beinsport 2HD
 rtmp://180.250.29.12:1935/jhos/beib2_5
 
 #EXTINF:-1 group-title="SPORT",beIN 1
@@ -685,9 +610,6 @@ http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
 #EXTINF:-1 tvg-logo="FILM ZONE HD.png group-title="MOVIES", FILM ZONE HD (US)
 http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
 
-#EXTINF:-1 group-title="SPORT",Saudi Arabia Sport
-http://intigral_live-lh.akamaihd.net/i/DPS2KCCAHLXSHB010514_1@135296/index_1200_av-p.m3u8
-
 #EXTINF:-1 group-title="MOVIES",OsN COMEDY +2
 http://185.27.237.105:8082/TV0021
 
@@ -735,9 +657,6 @@ http://212.70.155.243:40665/udp/237.100.0.190:4000
 
 #EXTINF:-1 group-title="NEWS",ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-
-#EXTINF:-1 group-title="MUSIC",Partytv Eska HD
-rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
 
 #EXTINF:-1 group-title="KIDS", NICK HD SP
 http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
