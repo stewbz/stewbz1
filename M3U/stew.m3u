@@ -1040,3 +1040,6 @@ http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 
 #EXTINF:-1 group-title="SPORT",Canal+ Liga De Campeones
 http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Total_TVE" tvg-name="TVE" tvg-logo="tve.png" group-title="ENTERTAINMENT",TVE
+http://200.76.77.237/LIVE/H01/CANAL651/PROFILE05.m3u8?
