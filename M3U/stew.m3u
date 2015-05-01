@@ -1046,3 +1046,6 @@ http://200.76.77.237/LIVE/H01/CANAL651/PROFILE05.m3u8?
 
 #EXTINF:-1 tvg-id="jonasiptv-BANDn" tvg-logo="Band.jpg" tvg-logo="http://iptvglobal.ml/logos/Band.jpg" group-title="ENTERTAINMENT",Band BR
 http://mistreaming.com.br:8081/TarobaCascavel/TarobaCascavel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=”!e.png” group-title="ENTERTAINMENT",E!  
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
