@@ -874,9 +874,6 @@ http://fsplive_hls-lh.akamaihd.net/i/fsp_HLSlive05_1@123460/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-logo="hollywood.png" tvg-id="" tvg-logo="http://updroids.qlix.com.br/logos/hollywood.png" group-title="MOVIES", HOLLYWOOD PT
 http://noscdn1.connectedviews.com:1935/live/hollywood.stream/livestream.m3u8?BRASILIPTV
 
-#EXTINF:-1 group-title="SPORT",SKY SPORTS 1
-http://185.56.30.127:8082/TV4284
-
 #EXTINF:0 group-title="SPORT", BEIN SPORTS HD1 GERMAN
 http://91.109.20.227:8080/TV4001
 
@@ -903,13 +900,6 @@ http://5.135.60.8/Alb/Albsports.com/58.ch
 
 #EXTINF:-1 group-title="KIDS",Cartoon network
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT",Sky Sports 1
-http://212.70.155.243:40665/udp/237.100.0.75:4000
-
-#EXTINF:-1 group-title="SPORT",Sky Sports 2
-http://212.70.155.243:40665/udp/237.100.0.76:4000
-
 
 #EXTINF:-1 group-title="SPORT",Nickelodeon
 http://212.70.155.243:40665/udp/237.100.0.23:4000
@@ -1049,3 +1039,21 @@ http://mistreaming.com.br:8081/TarobaCascavel/TarobaCascavel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=”!e.png” group-title="ENTERTAINMENT",E!  
 http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
+
+#EXTINF:-1 group-title="SPORT", SKY SPORTS F1
+http://apniapps.ddns.net:8080/f1/f1/index.m3u8
+
+#EXTINF:-1 group-title="SPORT",SKY SPORTS 1
+http://apniapps.ddns.net:8080/sp1/sp1/index.m3u8
+
+#EXTINF:-1 group-title="SPORT",SKY SPORTS 2
+http://apniapps.ddns.net:8080/sp2/sp2/index.m3u8
+
+#EXTINF:-1 group-title="SPORT",SKY SPORTS 3
+http://apniapps.ddns.net:8080/sp3/sp3/index.m3u8
+
+#EXTINF:-1 group-title="SPORT",SKY SPORTS 4
+http://apniapps.ddns.net:8080/sp4/sp4/index.m3u8
+
+#EXTINF:-1 group-title="SPORT",SKY SPORTS 5
+http://apniapps.ddns.net:8080/sp5/sp5/index.m3u8
