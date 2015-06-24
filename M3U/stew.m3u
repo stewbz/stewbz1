@@ -1040,20 +1040,28 @@ http://mistreaming.com.br:8081/TarobaCascavel/TarobaCascavel/playlist.m3u8
 #EXTINF:-1 tvg-logo=”!e.png” group-title="ENTERTAINMENT",E!  
 http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
 
-#EXTINF:-1 group-title="SPORT", SKY SPORTS F1
-http://apniapps.ddns.net:8080/f1/f1/index.m3u8
 
-#EXTINF:-1 group-title="SPORT",SKY SPORTS 1
-http://apniapps.ddns.net:8080/sp1/sp1/index.m3u8
-
-#EXTINF:-1 group-title="SPORT",SKY SPORTS 2
-http://apniapps.ddns.net:8080/sp2/sp2/index.m3u8
-
-#EXTINF:-1 group-title="SPORT",SKY SPORTS 3
-http://apniapps.ddns.net:8080/sp3/sp3/index.m3u8
-
-#EXTINF:-1 group-title="SPORT",SKY SPORTS 4
-http://apniapps.ddns.net:8080/sp4/sp4/index.m3u8
-
-#EXTINF:-1 group-title="SPORT",SKY SPORTS 5
-http://apniapps.ddns.net:8080/sp5/sp5/index.m3u8
+#EXTINF:0 group-title="SPORT",BEINSPORTS 1
+http://tvbox3.mine.nu:80/live?channelId=8&uid=2&deviceUser=nqash&devicePass=skype:adil.ana10
+#EXTINF:0 group-title="SPORT",BEINSPORTS 2
+http://tvbox3.mine.nu:80/live?channelId=9&uid=2&deviceUser=nqash&devicePass=skype:adil.ana10
+#EXTINF:0 group-title="SPORT",BEINSPORTS 3
+http://tvbox3.mine.nu:80/live?channelId=10&uid=2&deviceUser=nqash&devicePass=skype:adil.ana10
+#EXTINF:0 group-title="SPORT",BEINSPORTS 4
+http://tvbox3.mine.nu:80/live?channelId=11&uid=2&deviceUser=nqash&devicePass=skype:adil.ana10
+#EXTINF:0 group-title="SPORT",BEINSPORTS 5
+http://tvbox3.mine.nu:80/live?channelId=12&uid=2&deviceUser=nqash&devicePass=skype:adil.ana10
+#EXTINF:0 group-title="SPORT",BEINSPORTS 6
+http://tvbox3.mine.nu:80/live?channelId=13&uid=2&deviceUser=nqash&devicePass=skype:adil.ana10
+#EXTINF:0 group-title="SPORT",BEINSPORTS 7
+http://tvbox3.mine.nu:80/live?channelId=14&uid=2&deviceUser=nqash&devicePass=skype:adil.ana10
+#EXTINF:0 group-title="SPORT",BEINSPORTS 8
+http://tvbox3.mine.nu:80/live?channelId=15&uid=2&deviceUser=nqash&devicePass=skype:adil.ana10
+#EXTINF:0 group-title="SPORT",BEINSPORTS 16
+http://tvbox3.mine.nu:80/live?channelId=16&uid=2&deviceUser=nqash&devicePass=skype:adil.ana10
+#EXTINF:0 group-title="SPORT",BEINSPORTS 9
+http://tvbox3.mine.nu:80/live?channelId=26&uid=2&deviceUser=nqash&devicePass=skype:adil.ana10
+#EXTINF:0 group-title="SPORT",BEINSPORTS 10
+http://tvbox3.mine.nu:80/live?channelId=27&uid=2&deviceUser=nqash&devicePass=skype:adil.ana10
+#EXTINF:0 group-title="SPORT",BEINSPORTS 11
+http://tvbox3.mine.nu:80/live?channelId=28&uid=2&deviceUser=nqash&devicePass=skype:adil.ana10
