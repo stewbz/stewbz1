@@ -1,1067 +1,304 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 group-title="SPORT",ESPN 1080p
-http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?
+#EXTINF:-1,BBC1
+http://vs-hds-uk-live.edgesuite.net/pool_4/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-audio_1%3D128000-video%3D3500000.m3u8
+#EXTINF:-1,BBC2
+http://vs-hds-uk-live.edgesuite.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-audio_1%3D128000-video%3D3500000.m3u8
+#EXTINF:-1,BBC3
+http://vs-hds-uk-live.edgesuite.net/pool_1/live/bbc_three_hd/bbc_three_hd.isml/bbc_three_hd-audio_1%3D128000-video%3D3500000.m3u8
+#EXTINF:-1,E4 
+http://pebbles124-lh.akamaihd.net/i/e4_1@137789/master.m3u8|X-Forwarded-For=85.5.87.218
+#EXTINF:-1,Film4
+http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=85.5.87.218
 
-#EXTINF:-1 group-title="SPORT",Fox Sport
-http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
+#EXTINF:0,SportsNet360
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8#EXTINF:-1,Big Ten Network [COLOR blue]HD[/COLOR]
+#EXTINF:0,Big Ten Network
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
 
-#EXTINF:-1 group-title="SPORT",Fox Sports 2 1080p
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?
-
-#EXTINF:-1 group-title="SPORT",Fox Sport News
-http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_2128_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title="SPORT",Fox Sport News 1
-http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_1096_av-p.m3u8?husham.com
-
-#EXTINF:-1 group-title="SPORT",PRO SPORT 1
-http://185.56.30.127:8082/TV4133
-
-#EXTINF:-1 group-title="SPORT",PRO SPORT 2
-http://185.56.30.127:8082/TV4134
-
-#EXTINF:-1 group-title="SPORT",PRO SPORT 3
-http://185.56.30.127:8082/TV4135
-
-#EXTINF:-1 tvg-id="Pop" tvg-logo="pop.png" group-title="KIDS",POP
-http://llnw.live.simplestream.com/coder4/coder.channels.channel14/hls/3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MTV Live" tvg-logo="mtvlive.png" group-title="MUSIC",MTV Live HD
-http://200.76.77.237/LIVE/H01/CANAL701/PROFILE02.m3u8
-
-#EXTINF:-1 tvg-id="MTV Hits" tvg-logo="mtvhits.png" group-title="MUSIC",MTV Hits SD
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/bw480000/playlist.m3u8?utcstart=1425964607.5274911
-
-#EXTINF:-1 tvg-id="MTV Dance" tvg-logo="mtvdance.png" group-title="MUSIC",MTV Dance HD
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/bw480000/playlist.m3u8?utcstart=1425964714.5193388
-
-#EXTINF:-1 tvg-id="MTV Rocks" tvg-logo="mtvrock.png" group-title="MUSIC",MTV Rocks HD
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/bw480000/playlist.m3u8?utcstart=1425964738.5959589
-
-#EXTINF:-1 tvg-id="4Music" tvg-logo="4MUSIC.png" group-title="MUSIC",4Music HD
-http://llnw.live.simplestream.com/coder9/coder.channels.channel6/hls/3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="now International HD" tvg-logo="nowmusic.png" group-title="MUSIC",Now Thats What I Call Music Channel
-http://llnw.live.simplestream.com/coder6/coder.channels.channel5/hls/3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Heart" tvg-logo="HEART.png" group-title="MUSIC",Heart TV
-http://llnw.live.simplestream.com/coder7/coder.channels.channel10/hls/3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Pop" tvg-logo="pop.png" group-title="MUSIC",Planet POP
-http://llnw.live.simplestream.com/coder8/coder.channels.channel11/hls/3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Heat" tvg-logo="heat.png" group-title="MUSIC",Heat TV
-http://llnw.live.simplestream.com/coder9/coder.channels.channel8/hls/3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Kiss" tvg-logo="kiss.png" group-title="MUSIC",Kiss TV
-http://llnw.live.simplestream.com/coder9/coder.channels.channel14/hls/3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Kerrang!" tvg-logo="kerrang.png" group-title="MUSIC",KERRANG TV
-http://llnw.live.simplestream.com/coder11/coder.channels.channel4/hls/3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Magic" tvg-logo="magic.png" group-title="MUSIC",Magic.TV
-http://llnw.live.simplestream.com/coder11/coder.channels.channel2/hls/3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Smash Hits!" tvg-logo="smashhits.png" group-title="MUSIC",Smash Hits!
-http://llnw.live.simplestream.com/coder9/coder.channels.channel2/hls/3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="The Box" tvg-logo="thebox.png" group-title="MUSIC",The Box 
-http://llnw.live.simplestream.com/coder9/coder.channels.channel12/hls/3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Telehit" tvg-logo="telehit.png" group-title="MUSIC",TELEHIT
-http://200.76.77.237/LIVE/H01/CANAL702/PROFILE02.m3u8?
-
-#EXTINF:-1 tvg-id="VH1" tvg-logo="VH1.png group-title="MUSIC",VH1 UK
-http://92.50.181.6/tv/1282/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="VH1.png" group-title="MUSIC",VH1 SP
-http://200.76.77.237/LIVE/H01/CANAL703/PROFILE02.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="VH1CLASSIC.png group-title="MUSIC",VH1 Classic
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/bw480000/playlist.m3u8?utcstart=1425965374.0639367
-
-#EXTINF:0 group-title="MOVIES",Sky Movies Premiere
-http://91.109.20.227:8080/TV4251
- 
-#EXTINF:0 group-title="MOVIES",Sky Movies Premiere+
-http://91.109.20.227:8080/TV4252
- 
-#EXTINF:0 group-title="MOVIES",Sky Movies Select
-http://91.109.20.227:8080/TV4254
- 
-#EXTINF:0 group-title="MOVIES",Sky Movies Action & Adventure
-http://91.109.20.227:8080/TV4245
- 
-#EXTINF:0 group-title="MOVIES",Sky Movies Comedy
-http://91.109.20.227:8080/TV4246
- 
-#EXTINF:0 group-title="MOVIES",Sky Movies Disney
-http://91.109.20.227:8080/TV4247
- 
-#EXTINF:0 group-title="MOVIES",Sky Movies Family
-http://91.109.20.227:8080/TV4248
- 
-#EXTINF:0 group-title="MOVIES",Sky Movies SciFi
-http://91.109.20.227:8080/TV4249
- 
-#EXTINF:0 group-title="MOVIES",Sky Movies Premiere 2nd
-http://185.56.30.123:8082/TV4251
- 
-#EXTINF:0 group-title="MOVIES",Sky Movies Premiere+ 2nd
-http://185.56.30.123:8082/TV4252
- 
-#EXTINF:0 group-title="MOVIES",Sky Sky Movies Select 2nd
-http://185.56.30.123:8082/TV4254
- 
-#EXTINF:0 group-title="MOVIES",Sky Movies Action & Adventure 2nd
-http://185.56.30.123:8082/TV4245
- 
-#EXTINF:0 group-title="MOVIES",Sky Movies Comedy 2nd
-http://185.56.30.123:8082/TV4246
- 
-#EXTINF:0 group-title="MOVIES",Sky Movies Disney 2nd
-http://185.56.30.123:8082/TV4247
- 
-#EXTINF:0 group-title="MOVIES",Sky  Movies Family 2nd
-http://185.56.30.123:8082/TV4248
- 
-#EXTINF:0 group-title="MOVIES",Sky Movies SciFi 2nd
-http://185.56.30.123:8082/TV4249
-
-#EXTINF:-1 tvg-id="I867.164718905.microsoft.com" tvg-logo="BANDMAX.png" group-title="MUSIC",BANDAMAX HD
-http://200.76.77.237/LIVE/H01/CANAL732/PROFILE02.m3u8?
-
-#EXTINF:-1 tvg-id="I781.751725.microsoft.com" tvg-logo="e95df3fb24cdc88b270455268f2aa3e8.png" group-title="MUSIC",B4U Music
-http://46.249.213.87/iPhone/broadcast/b4u-tablet.3gp/b4u-tablet.3gp-mr648k.m3u8?trackingid=3391380000&os=desktop
-
-#EXTINF:-1 tvg-id="CapitalTV.uk" tvg-logo="b7c99ed46812e3b749b4fe39404aed09.png" group-title="MUSIC",CAPITAL TV
+#EXTINF:-1,PAC Mountain 1080P
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1,PAC Network National 720P 
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Arizona) 720P 
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Arizona) 1080P 
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1,PAC-12 Net. (Bay Area) 720P 
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Bay Area) 1080P 
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1,PAC-12 Net. (Los Angeles) 720P
+http://xrxs.net/video/live-p12losa-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Oregon) 720P
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Oregon) 1080P 
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1,PAC-12 Net. (Washington) 720P 
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Washington) 1080P
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1,NASA
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,ISS Live 1
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,ISS Live 2
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,BBC One London
+http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_5/live/bbc_one_london/bbc_one_london.isml/bbc_one_london-audio_2%3D96000-video%3D1374000.m3u8
+#EXTINF:0,BBC 2
+http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-audio_2%3D96000-video%3D1374000.m3u8
+#EXTINF:-1,ITV 1 London
+http:///LiveEdge/itv1.stream/chunklist_w1855267319_b1000000.m3u8?token=1c017ed526f56ab7b2710e10b52c11b8
+#EXTINF:-1,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-1,Sky News UK
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+#EXTINF:-1,BBC World News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:-1,CNN
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:-1,CNBC
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:-1,Discovery Science USA
+http://80.80.160.168/live/9/live.m3u8
+#EXTINF:-1,USA NETWORK
+http://bit.do/6oh4
+#EXTINF:-1,WWE NETWORK
+rtmp://137.63.71.18:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=9&width=600&height=450 token=#atd%#$ZH timeout=25
+#EXTINF:-1,VH1
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1EUROPEAN/variant.m3u8
+#EXTINF:-1,4 MUSIC
+http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
+#EXTINF:-1,THE BOX
+http://csm-e.cds1.yospace.com/csm/live/86561631.m3u8
+#EXTINF:-1,MAGIC
+http://csm-e.cds1.yospace.com/csm/live/86561776.m3u8
+#EXTINF:-1,HEAT
+http://csm-e.cds1.yospace.com/csm/live/86561584.m3u8
+#EXTINF:-1,CLUBLAND
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,KISS TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1,NOW THATS WHAT I CALL MUSIC
+http://bit.do/6wp2
+#EXTINF:-1,AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,HEART
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1,CAPITAL
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="I370.758288.microsoft.com" group-title="MUSIC" tvg-logo="22624e3ee8c4cddaa8f7494a8a098ed6.png",Channel AKA
-http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
-#EXTINF:-1 tvg-id="I383.757363.microsoft.com" tvg-logo="CLUBLAND.png" group-title="MUSIC",Clubland TV
-http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:0,SKY SPORTS 1 
+http://usa.01.cdnstreams.in:8081/view/ch06/playlist.m3u8
+#EXTINF:0,SKY SPORTS 2 
+http://usa.01.cdnstreams.in:8081/view/ch07/playlist.m3u8
+#EXTINF:0,SKY SPORTS 3 
+http://usa.01.cdnstreams.in:8081/view/ch15/playlist.m3u8
+#EXTINF:0,SKY SPORTS 4
+http://usa.01.cdnstreams.in:8081/view/ch16/playlist.m3u8
+#EXTINF:0,SKY SPORTS 5 
+http://usa.01.cdnstreams.in:8081/view/ch09/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I350.759433.microsoft.com" tvg-logo="MTV.png" group-title="MUSIC",MTV Music HD
-rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
 
-#EXTINF:-1 tvg-id="I160.28457065.microsoft.com" tvg-logo="MTV.gr.png" group-title="MUSIC",MTV Europe
-http://200.76.77.237/LIVE/H01/CANAL726/PROFILE02.m3u8?
+#EXTINF:0,CHELSEA-TV
+http://ultra.goldtv.al:8000/live/www.albsports.com/www.sportsalb.com/515.ts
+#EXTINF:0,MU-TV
+http://ultra.goldtv.al:8000/live/www.albsports.com/www.sportsalb.com/516.ts
+#EXTINF:0,LIVERPOOL-TV
+http://ultra.goldtv.al:8000/live/www.albsports.com/www.sportsalb.com/517.ts
 
-#EXTINF:-1 tvg-id="I358.758414.microsoft.com" tvg-logo="MTVLIVE.png" group-title="MUSIC",MTV Live HD
-http://200.76.77.237/LIVE/H01/CANAL701/PROFILE01.m3u8
 
-#EXTINF:-1 tvg-id="I352.749161.microsoft.com" tvg-logo="MTVLIVE.png" group-title="MUSIC",MTV Hits SD
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
 
-#EXTINF:-1 tvg-id="I353.751128.microsoft.com" tvg-logo="MTVLIVE.png" group-title="MUSIC",MTV Dance HD
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
+#EXTINF:-1,Sky Movies Action & Adventure 
+http://31.220.40.118/LiveEdge/movaction.stream/chunklist_w490346046_b1000000.m3u8?token=5981342e975cc7558bd11a139df6f9ad
+#EXTINF:-1,Sky Movies Disney
+http://31.220.41.107/LiveEdge/movdisney.stream/chunklist_w1025860554_b1000000.m3u8?token=e1d43cba30c7a35e23f4aef298f44000
+#EXTINF:-1,Sky Movies Scifi & Horror
+http://31.220.40.117/LiveEdge/movscifi.stream/chunklist_w1853906474_b1000000.m3u8?token=75160234717038d96b106bfc51d238f7
+#EXTINF:-1,Sky Movies Family
+http://31.220.40.100/LiveEdge/movfamily.stream/chunklist_w1510981716_b1000000.m3u8?token=d94ba2063289ee23512e0ed91f717017
+#EXTINF:-1,Sky Movies Comedy
+http://31.220.40.119/LiveEdge/movcomedy.stream/chunklist_w290877001_b1000000.m3u8?token=dfa7f57bdd40b89b1005cd0cd779b51c
+#EXTINF:-1,Sky Movies Crime & Thriller
+http://31.220.40.121/LiveEdge/movthriller.stream/chunklist_w2040616093_b1000000.m3u8?token=0193aebbaa4e6826f165b2667deed4b6
+#EXTINF:-1,Sky Movies Premiere
+http://31.220.41.111/LiveEdge/movpremier.stream/chunklist_w378146533_b1000000.m3u8?token=08d0aa958dc61e76e84e9d6373f87d1b
+#EXTINF:-1,Sky Movies Modern Greats
+http://31.220.40.116/LiveEdge/mgreats.stream/chunklist_w150384337_b1000000.m3u8?token=fb115d7755642cb31d66b2fa0d9ff45a
+#EXTINF:-1,Sky Movies Select
+http://31.220.40.116/LiveEdge/movselect.stream/chunklist_w1766985618_b1000000.m3u8?token=782ad3188d1f7072ff2e388183a6b973
 
-#EXTINF:-1 tvg-id="I354.727758.microsoft.com" tvg-logo="MTVLIVE.png" group-title="MUSIC",MTV Rocks HD
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
+#EXTINF:0,USA CHANNELS
 
-#EXTINF:-1 group-title="SPORT",BEIN SPORT HD1 FR
-http://185.56.30.127:8082/TV4016
 
-#EXTINF:-1 group-title="SPORT",BEIN SPORT HD2 FR
-http://185.56.30.127:8082/TV4017
-
-#EXTINF:-1 group-title="SPORT",BEIN SPORT HD1 FR1
-http://91.109.20.227:8080/TV4016?ainroua2021HD
+#EXTINF:0,ABC 22 
+http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
+#EXTINF:0,AMC
+http://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183
+#EXTINF:0,BET
+http://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl/playlist.m3u8?wowzasessionid=1419880467
+#EXTINF:0,Cartoon Network
+http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
+#EXTINF:0,CBS HD (WHIO 7)
+http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
+#EXTINF:0,CNN USA 
+http://93.174.95.125:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421
+#EXTINF:0,Discovery Channel 
+http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
+#EXTINF:0,Disney Channel
+http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
+#EXTINF:0,ESPN 
+http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
+#EXTINF:0,Food Network
+http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022
+#EXTINF:0,FOX News 
+http://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821
+#EXTINF:0,Hallmark 
+http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
+#EXTINF:0,HBO 
+http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
+#EXTINF:0,HGTV
+http://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602
+#EXTINF:0,History Channel (USA)
+http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
+#EXTINF:0,Lifetime 
+http://93.174.95.125:1935/edge/_definst_/7b2gr554gyyth8e/playlist.m3u8?wowzasessionid=1419879018
+#EXTINF:0,MSNBC 
+http://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712
+#EXTINF:0,MTV
+http://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062
+#EXTINF:0,Nat GEO
+http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
+#EXTINF:0,NBC
+http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103
+#EXTINF:0,Showtime
+http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
+#EXTINF:0,Spike
+http://93.174.95.125:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529
+#EXTINF:0,SyFy
+http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
+#EXTINF:0,tbs
+http://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319
+#EXTINF:0,TLC
+http://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck/chunklist.m3u8?wowzasessionid=1419907929
+#EXTINF:0,TNT
+http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
+#EXTINF:0,USA Network
+http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
+#EXTINF:0,VH-1
+http://93.174.95.125:1935/edge/_definst_/oeiigxxv1gbeqq9/manifest.m3u8?wowzasessionid=1420170560
+#EXTINF:-1, Motors TV
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_MOTORSTV/variant.m3u8?version=2
  
-#EXTINF:-1 group-title="SPORT",BEIN SPORT HD2 FR1
-http://91.109.20.227:8080/TV4017?ainroua2021HD
-
-#EXTINF:-1 group-title="SPORT",CNOPT SPORT
-http://92.50.181.6/tv/1114/index.m3u8
-
-#EXTINF: 0 group-title="SPORT",CNOPT 1
-http://92.50.181.6/tv/1115/index.m3u8
-
-#EXTINF:-1 group-title="SPORT",Real Madrid TV HD SP
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title="SPORT",PRO SPORTS 1 HD AR
-http://91.109.20.227:8080/TV4133
-
-#EXTINF:-1 group-title="SPORT",PRO SPORTS 2 HD AR
-http://91.109.20.227:8080/TV4134
-
-#EXTINF:-1 group-title="SPORT",PRO SPORTS 3 HD AR
-http://91.109.20.227:8080/TV4135
-
-#EXTINF:-1 group-title="SPORT",OMN SPORTS HD ENG
-http://185.27.237.105:8082/TV0104
-
-#EXTINF:-1 group-title="SPORT",Eurosport 1 RU
-http://185.38.12.20:8088/eurosport/
-
-#EXTINF:-1 group-title="SPORT",Eurosport 2 RU
-http://185.38.12.20:8088/eurosport2/
-
-#EXTINF:-1 group-title="SPORT",Eurosport 1 RU1
-http://178.49.132.73/streaming/eurosport/tvrec/playlist.m3u8 
-
-#EXTINF:-1 group-title="SPORT",Eurosport 2 RU1
-http://178.49.132.73/streaming/eurosport2/tvrec/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT",Nile Sport AR
-http://arabic.dynns.com:1935/arabic/NileSport/chunklist_w499764461.m3u8?wmsAuthSign
-
-#EXTINF:-1 group-title="SPORT",Al Nahar Sport AR
-http://50.7.180.18:1935/elnahar_tv/nahar_sportprofile2.stream/chunklist_w803090614.m3u8?v=3315732402
-
-#EXTINF:-1 group-title="SPORT",Abu Dhabi Sports 1 AR
-http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8
-
-#EXTINF:-1 group-title="SPORT",Abu Dhabi Sports 2 AR
-http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8
-
-#EXTINF:-1 group-title="SPORT",Abu Dhabi Sports 3 AR 
-http://205.185.216.10/h5f3k7p8/cds/smil:adsportextrahd/gmswf.m3u8
-
-#EXTINF:-1 group-title="SPORT",Dubai sports 3 AR
-http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/HasBahCa.m3u8
-
-#EXTINF:-1 group-title="SPORT",ENCORE BAY AREA ENG
-http://www.xrxs.net/video/live-p12baya-4728.m3u8
-
-#EXTINF:-1 group-title="SPORT",ENCORE LOS ANGELES ENG
-http://xrxs.net/video/live-p12losa-4728.m3u8
-
-#EXTINF:-1 group-title="SPORT",ENCORE MOUNTAIN ENG
-http://xrxs.net/video/live-p12moun-4728.m3u8
-
-#EXTINF:-1 group-title="SPORT",ENCORE NETWORK ENG
-http://www.xrxs.net/video/live-p12netw-4728.m3u8
-
-#EXTINF:-1 group-title="SPORT",ENCORE OREGON ENG
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-
-#EXTINF:-1 tvg-logo="trt.png" group-title="SPORT",TRT SPOR HD TUR
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
-
-#EXTINF:-1 group-title="MUSIC",VEVO HD ENG
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+#EXTINF:-1, Arena Sport 1 Croatia
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1778.m3u8
  
-#EXTINF:-1 group-title="MUSIC",Vevo 2 HD ENG
+#EXTINF:-1, Arena Sport 2 Croatia
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1779.m3u8
+ 
+#EXTINF:-1, Arena Sport 3 Croatia
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1780.m3u8
+ 
+#EXTINF:-1, Arena Sport 4 Croatia
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1781.m3u8
+ 
+#EXTINF:-1, Arena sport 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/366.m3u8
+ 
+#EXTINF:-1, Arena sport 4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/367.m3u8
+ 
+#EXTINF:-1, Astro Supersport 1 HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1203.m3u8
+ 
+#EXTINF:-1, Astro Supersport 3 HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1205.m3u8
+ 
+#EXTINF:-1, Astro Supersport 4 HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2636.m3u8
+
+#EXTINF:-1, Sport Klub 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/370.m3u8
+ 
+#EXTINF:-1, Sport Klub 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/657.m3u8
+ 
+#EXTINF:-1, Sport Klub 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/658.m3u8
+ 
+#EXTINF:-1, Sport TV 1 (PT)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1157.m3u8
+ 
+#EXTINF:-1, Sport TV 2 (PT)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1158.m3u8
+ 
+#EXTINF:-1, VIASAT Football
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1165.m3u8
+ 
+#EXTINF:-1, Hunting-Fishing
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1531.m3u8
+
+
+#EXTINF:-1, 1HD 2
+http://109.239.142.62:1935/live/livestream3/playlist.m3u8
+ 
+ 
+#EXTINF:-1, Clubbing TV
+http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
+
+ 
+#EXTINF:-1, MTV HITS
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8?b?b*t$
+
+#EXTINF:-1, Rouge TV
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8?by_HasBahCa
+ 
+#EXTINF:-1, Vevo
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+ 
+ 
+#EXTINF:-1, Vevo 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+ 
+ 
+#EXTINF:-1, Vevo 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+ 
+ 
+#EXTINF:-1, Vevo 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+ 
+ 
+#EXTINF:-1, Vevo TV 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8?b?b*t$
+ 
+ 
+#EXTINF:-1, Vevo TV 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8?b?b*t$
+ 
+ 
+#EXTINF:-1, Vevo TV 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8?b?b*t$
+ 
+ 
+#EXTINF:-1, USA:Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+ 
+ 
+#EXTINF:-1, USA:Vevo2 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
  
-#EXTINF:-1 group-title="MUSIC",Vevo 3 HD ENG
+ 
+#EXTINF:-1, USA:Vevo3 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
  
-#EXTINF:-1 group-title="MUSIC",USA:Kiss ENG
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
  
-#EXTINF:-1 group-title="MUSIC",1HD ENG
-rtmp://109.239.142.62/live/livestream3
-
-#EXTINF:-1 group-title="MUSIC",MTV LIVE HD ENG
-http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
-
-#EXTINF:-1 group-title="DOCUMENTARY",DISCOVERY HD ENG
-http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+#EXTINF:-1, VH1 CLASSIC 1
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/variant.m3u8
  
-#EXTINF:-1 group-title="SPORT",FOX SPORTS SP
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
  
-#EXTINF:-1 group-title="SPORT",FOX SPORTS 2 SP
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+#EXTINF:-1, VH1 Classic 2
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/variant.m3u8
 
-#EXTINF:-1 group-title="SPORT",Viasat Sport HD RU
-http://tv.yoooo.tv/onstream/R4Q93ZUT/102.m3u8
- 
-#EXTINF:-1 group-title="SPORT",ESPN 3 HD SP SLOW
-http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?
- 
-#EXTINF:-1 group-title="SPORT",ESPN HD SP SLOW
-http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?
- 
-#EXTINF:-1 group-title="DOCUMENTARY",Animal Planet HD ENG
-http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028
- 
-#EXTINF:-1 group-title="DOCUMENTARY",A&E Network HD SP
-http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?
- 
-#EXTINF: 0 group-title="DOCUMENTARY",Discovery Science HD RU
-http://46.61.226.18/hls/CH_C05_DISCOVERYSCIENCEHD/bw3000000/variant.m3u8?version=2  
- 
-#EXTINF: 0 group-title="SPORT",Eurosport HD RU 
-http://46.61.226.18/hls/CH_C02_EUROSPORTHD/bw3000000/variant.m3u8?version=2  
-  
-#EXTINF: 0 group-title="ENTERTAINMENT",AMEDIA 1 HD RU
-http://46.61.226.18/hls/CH_C01_HDAMEDIA/bw3000000/variant.m3u8?version=2  
- 
-#EXTINF: 0 group-title="ENTERTAINMENT",Amedia Premium HD RU
-http://46.61.226.18/hls/CH_C05_HDAMEDIAPREMIUM/bw3000000/variant.m3u8?version=2  
- 
-#EXTINF: 0 group-title="DOCUMENTARY",Animal Planet HD RU
-http://46.61.226.18/hls/CH_C03_ANIMALPLANETHD/bw3000000/variant.m3u8?version=2  
- 
-#EXTINF: 0 group-title="SPORT",Our Football HD RU
-http://46.61.226.18/hls/CH_C06_NASHFOOTBALLHD/bw3000000/variant.m3u8?version=2  
- 
-#EXTINF: 0 group-title="SPORT",1 Football HD RU
-http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2  
- 
-#EXTINF: 0 group-title="SPORT",Football 2 HD RU
-http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2  
- 
-#EXTINF: 0 group-title="SPORT",Football 3 HD RU 
-http://46.61.226.18/hls/CH_FUTBALL3HD/bw3000000/variant.m3u8?version=2  
-
-#EXTINF: 0 group-title="DOCUMENTARY",Nat Geo Wild HD RU
-http://46.61.226.18/hls/CH_C03_NATGEOWILDHD/bw3000000/variant.m3u8?version=2
-
-#EXTINF: 0 group-title="DOCUMENTARY",National Geographic HD RU
-http://46.61.226.18/hls/CH_C04_NGCHD/bw3000000/variant.m3u8?version=2
-
-#EXTINF: 0 group-title="SPORT",Viasat Golf HD ENG
-http://46.61.226.18/hls/CH_C06_VIASATGOLFHD/bw3000000/variant.m3u8?version=2
-
-#EXTINF:-1 tvg-id="SBT.igor" tvg-logo="SBT-HD.png" group-title="ENTERTAINMENT",SBT BR
-http://srv3.zoeweb.tv:1935/z133-live/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV Escola.igor" tvg-logo="TV-Escola.png" group-title="KIDS",TV ESCOLA BR
-http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
-
-#EXTINF:-1 tvg-id="Cine Brasil.igor" tvg-logo="Cinebrasiltv.png" group-title="MOVIES",CINEBRASIL
-http://62.210.83.180:1935/liverepeat/cinebrasil180/cinebrasil180/IGOR_RANGEL.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="BeIN-1.png" group-title="SPORT",BEIN SPORTS 1
-http://4.31.30.145:9128/
- 
-#EXTINF:-1 tvg-id="" tvg-logo="BeIN-2.png" group-title="SPORT",BEIN SPORTS 2
-http://2co1.vp9.tv/chn/bin02/v.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-logo="BeIN-3.png" group-title="SPORT",BEIN SPORTS 3
-http://2co1.vp9.tv/chn/bin03/v.m3u8
- 
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" group-title="ENTERTAINMENT",SIC PT
-http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
-
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="Tvi_logo.png" group-title="ENTERTAINMENT",TVI PT
-http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="ESPN.png" group-title="SPORT",ESPN HD SP
-http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?IGOR_RANGEL
- 
-#EXTINF:-1 tvg-id="" tvg-logo="ESPN.png" group-title="SPORT",ESPN SP
-http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?IGOR_RANGEL
- 
-#EXTINF:-1 tvg-id="" tvg-logo="ESPN.png" group-title="SPORT",ESPN 2 SP
-http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?IGOR_RANGEL
-
-#EXTINF:-1 tvg-id="" tvg-logo="Fox-Sports.png" group-title="SPORT",FOX SPORTS HD SP
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?IGOR_RANGEL
- 
-#EXTINF:-1 tvg-id="" tvg-logo="Fox-Sports-2.png" group-title="SPORT",FOX SPORTS 2 SP
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?IGOR_RANGEL
-
-#EXTINF:-1 tvg-id="Globo Nacional.ttwrs" tvg-logo="Globo%20HD.png" group-title="ENTERTAINMENT",GLOBO NORDESTE
-http://live-cdn.direct-stream.org:1935/live/_definst_/101010/Globo_SP_Anderson_Elias.m3u8?Grupo_UP_e_DOWN
-
-#EXTINF:-1 group-title="ENTERTAINMENT",Extremadura TV
-http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT",TV MANÁ BRASIL
-http://195.22.19.189:1935/tvbr/tvbrasil2/hasbahca.m3u8
-
-#‎EXTINF‬:-1 group-title="KODI ONLY",Beinsport 1HD
-rtmp://180.250.29.12:1935/jhos/beib1_5
-
-#EXTINF:-1 group-title="KODI ONLY",Beinsport 2HD
-rtmp://180.250.29.12:1935/jhos/beib2_5
-
-#EXTINF:-1 group-title="SPORT",beIN 1
-http://185.56.30.127:8082/TV4016
-
-#EXTINF:-1 group-title="SPORT",beIN 2
-http://185.56.30.127:8082/TV4017
-
-#EXTINF:-1 group-title="SPORT",Super sport 1
-http://81.7.13.162/hls/ss1/index.m3u8
-
-#EXTINF:-1 group-title="SPORT",Super sport 2
-http://81.7.13.162/hls/ss2/index.m3u8
-
-#EXTINF:-1 group-title="SPORT",Super sport 3
-http://81.7.13.162/hls/ss3/index.m3u8
-
-#EXTINF:-1 group-title="SPORT",ESPN
-http://162.219.0.235:8000/udp/162.219.0.235:15140
-
-#EXTINF:-1 group-title="SPORT",ESPN
-http://162.219.0.235:8000/udp/162.219.0.235:15140
-
-#EXTINF:-1 group-title="MOVIES",Pink 3
-http://pinkovi.hits2hits.com/fastv_2psh/PinkAction3global_rly_greece_103/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="KIDS",Disney Channel
-http://94.198.255.211:5555/pl.m3u8?channel=16
-
-#EXTINF:-1 group-title="KIDS",Nickelodeon
-http://94.198.255.211:5555/pl.m3u8?channel=35
-
-#EXTINF:0 group-title="ENTERTAINMENT",BBC One
-http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",BBC Two
-http://llnw.live.simplestream.com/mediaexcel01/channel02/3/prog_index.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",BBC Three
-http://llnw.live.simplestream.com/mediaexcel01/channel06/3/prog_index.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",BBC Four
-http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="SPORT",Box Nation
-http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",CBS Action
-http://llnw.live.simplestream.com/coder4/coder.channels.channel2/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",Channel 4
-http://llnw.live.simplestream.com/mediaexcel01/channel04/3/prog_index.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",Channel 5
-http://llnw.live.simplestream.com/mediaexcel01/channel05/3/prog_index.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",Channel 5 +24
-http://llnw.live.simplestream.com/coder8/coder.channels.channel12/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",ITV1
-http://llnw.live.simplestream.com/mediaexcel01/channel03/3/prog_index.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",ITV2
-http://llnw.live.simplestream.com/coder12/coder.channels.channel8/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",ITV3
-http://llnw.live.simplestream.com/coder12/coder.channels.channel10/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",ITV4
-http://llnw.live.simplestream.com/coder12/coder.channels.channel12/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",More 4
-http://llnw.live.simplestream.com/coder8/coder.channels.channel2/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",Community Channel
-http://llnw.live.simplestream.com/coder10/coder.channels.channel16/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",E4
-http://llnw.live.simplestream.com/coder10/coder.channels.channel21/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="SALES",Fashion TV
-http://llnw.live.simplestream.com/coder6/coder.channels.channel8/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="MOVIES",Film Four
-http://llnw.live.simplestream.com/coder10/coder.channels.channel2/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="MOVIES",Film Four HD
-http://78.129.175.72/live/film4/film4.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",Food Network (UK)
-http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",Food Network +1 (UK)
-http://llnw.live.simplestream.com/coder2/coder.channels.channel8/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="MOVIES",Horror Channel
-http://llnw.live.simplestream.com/coder4/coder.channels.channel6/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",Horse & Country
-http://llnw.live.simplestream.com/coder3/coder.channels.channel5/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="SALES",The Jewellery Channel
-http://llnw.live.simplestream.com/coder3/coder.channels.channel18/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="SALES",The Jewellery Channel Choice
-http://llnw.live.simplestream.com/coder3/coder.channels.channel2/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",Travel Channel (UK)
-http://llnw.live.simplestream.com/coder6/coder.channels.channel12/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",Travel Channel +1 (UK)
-http://llnw.live.simplestream.com/coder6/coder.channels.channel14/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="MOVIES",True Movies 1
-http://llnw.live.simplestream.com/coder4/coder.channels.channel8/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="MOVIES",True Movies 2
-http://llnw.live.simplestream.com/coder4/coder.channels.channel10/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="KIDS",CBBC
-http://llnw.live.simplestream.com/coder2/coder.channels.channel5/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="KIDS",CBeebies
-http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="KIDS",Citv
-http://llnw.live.simplestream.com/coder8/coder.channels.channel5/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="KIDS",Tiny Pop
-http://llnw.live.simplestream.com/coder4/coder.channels.channel12/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="KIDS",Pop
-http://llnw.live.simplestream.com/coder4/coder.channels.channel14/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="MUSIC",Smash Hits
-http://llnw.live.simplestream.com/coder9/coder.channels.channel2/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="MUSIC",4 Music
-http://llnw.live.simplestream.com/coder9/coder.channels.channel16/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="MUSIC",Heat
-http://llnw.live.simplestream.com/coder9/coder.channels.channel88/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="MUSIC",The BOX
-http://llnw.live.simplestream.com/coder9/coder.channels.channel12/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="MUSIC",Planet Pop
-http://llnw.live.simplestream.com/coder8/coder.channels.channel11/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="MUSIC",Kiss
-http://llnw.live.simplestream.com/coder9/coder.channels.channel14/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="MUSIC",Capital TV
-http://llnw.live.simplestream.com/coder7/coder.channels.channel8/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="MUSIC",Heart TV
-http://llnw.live.simplestream.com/coder7/coder.channels.channel10/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="MUSIC",Channel AKA
-http://llnw.live.simplestream.com/coder6/coder.channels.channel2/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="MUSIC",Magic
-http://llnw.live.simplestream.com/coder11/coder.channels.channel2/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="MUSIC",Now That’s What I Call Music
-http://llnw.live.simplestream.com/coder6/coder.channels.channel5/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="MUSIC",Clubland
-http://llnw.live.simplestream.com/coder2/coder.channels.channel11/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-
-#EXTINF:0 group-title="NEWS",Bloomberg
-http://llnw.live.simplestream.com/coder5/coder.channels.channel9/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="NEWS",Euronews
-http://llnw.live.simplestream.com/coder6/coder.channels.channel11/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="NEWS",Sky News
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
-
-#EXTINF:0 group-title="NEWS",Russia Today
-http://llnw.live.simplestream.com/coder7/coder.channels.channel2/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="NEWS",Al Jazeera News (English)
-http://llnw.live.simplestream.com/coder7/coder.channels.channel12/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="NEWS",France 24 News (English)
-http://llnw.live.simplestream.com/coder7/coder.channels.channel14/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="NEWS",NHK World
-http://llnw.live.simplestream.com/coder1/coder.channels.channel11/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="NEWS",BBC News
-http://llnw.live.simplestream.com/coder7/coder.channels.channel17/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",BBC Alba
-http://llnw.live.simplestream.com/coder10/coder.channels.channel9/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",S4C
-http://llnw.live.simplestream.com/coder6/coder.channels.channel6/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",4 Seven
-http://llnw.live.simplestream.com/coder8/coder.channels.channel6/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",5 Star
-http://llnw.live.simplestream.com/coder8/coder.channels.channel8/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="ENTERTAINMENT",5 USA
-http://llnw.live.simplestream.com/coder8/coder.channels.channel14/hls/3/playlist.m3u8
-
-#EXTINF:0 group-title="SPORT",At The Races
-http://llnw.live.simplestream.com/coder1/coder.channels.channel2/hls/1/playlist.m3u8
-
-#EXTINF:0 group-title="NEWS", CNN
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
-
-#EXTINF:-1 group-title="MOVIES", Fox Action Movies HD
-http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h
-
-#EXTINF:-1 group-title="MOVIES", Fox Movies Premium HD
-http://103.242.13.67:5000/nn_live.ts?id=foxmovies-m-h
-
-#EXTINF:-1 tvg-logo="Fox Premiers.png" group-title="MOVIES", FOX MOVIES HD (US)
-http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
-
-#EXTINF:-1 tvg-logo="Fox Action.png group-title="MOVIES", Fox Action (US)
-http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
-
-#EXTINF:-1 tvg-logo="FOX CINEMA.png group-title="MOVIES", FOX CINEMA (US)
-http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
-
-#EXTINF:-1 tvg-logo="FILM ZONE HD.png group-title="MOVIES", FILM ZONE HD (US)
-http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
-
-#EXTINF:-1 group-title="MOVIES",OsN COMEDY +2
-http://185.27.237.105:8082/TV0021
-
-#EXTINF:-1 group-title="MOVIES",OMN movie drama
-http://185.27.237.105:8082/TV0022
-
-#EXTINF:-1 group-title="MOVIES",OSN movie hd
-http://185.27.237.105:8082/TV0023
-
-#EXTINF:-1 group-title="MOVIES",OSN movie hd +1
-http://185.27.237.105:8082/TV0024
-
-#EXTINF:-1 group-title="MOVIES",OSN movie hd +2
-http://185.27.237.105:8082/TV0025
-
-#EXTINF:-1 group-title="MOVIES",mgm
-http://185.27.237.105:8082/TV0050
-
-#EXTINF:-1 group-title="MOVIES",star movie hd
-http://185.27.237.105:8082/TV0051
-
-#EXTINF:-1 group-title="MOVIES",omn movie
-http://185.27.237.105:8082/TV0053
-
-#EXTINF:-1 group-title="MOVIES",oSn movie hd +2
-http://185.27.237.105:8082/TV0054
-
-#EXTINF:-1 group-title="MUSIC",Flava
-http://212.70.155.243:40665/udp/237.100.0.173:4000
-
-#EXTINF:-1 group-title="MUSIC",Bliss
-http://212.70.155.243:40665/udp/237.100.0.174:4000
-
-#EXTINF:-1 group-title="MUSIC",Scuzz
-http://212.70.155.243:40665/udp/237.100.0.175:4000
-
-#EXTINF:-1 group-title="MUSIC",Chart Show Dance
-http://212.70.155.243:40665/udp/237.100.0.176:4000
-
-#EXTINF:-1 group-title="MOVIES",True Entertainment
-http://212.70.155.243:40665/udp/237.100.0.189:4000
-
-#EXTINF:-1 group-title="MOVIES",True Drama
-http://212.70.155.243:40665/udp/237.100.0.190:4000
-
-#EXTINF:-1 group-title="NEWS",ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-
-#EXTINF:-1 group-title="KIDS", NICK HD SP
-http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
-
-#EXTINF:-1 group-title="KIDS", NICK SP
-http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?
-
-#EXTINF:-1 group-title="KIDS", CARTOON NETWORK SP
-http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
- 
-#EXTINF:-1 group-title="KIDS", DISNEY XD SP
-http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
- 
-#EXTINF:-1 group-title="KIDS", BOOMERANG SP
-http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
- 
-#EXTINF:-1 group-title="KIDS", TOONCAST SP
-http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
-
-#EXTINF:-1 group-title="ENTERTAINMENT", TIIN SP
-http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?
- 
-#EXTINF:-1 group-title="DOCUMENTARY", DISCOVERY HD SP
-http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
- 
-#EXTINF:-1 group-title="DOCUMENTARY", HISTORY SP
-http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?
- 
-#EXTINF:-1 group-title="DOCUMENTARY", NAT GEO WILD SP
-http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?
- 
-#EXTINF:-1 group-title="DOCUMENTARY", TLC HD SP
-http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
- 
-#EXTINF:-1 group-title="DOCUMENTARY", DISCOVERY SP
-http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?
- 
-#EXTINF:-1 group-title="DOCUMENTARY", ANIMAL PLANET SP
-http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
- 
-#EXTINF:-1 group-title="DOCUMENTARY", NAT GEO SP
-http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
- 
-#EXTINF:-1 group-title="DOCUMENTARY", TCM SP
-http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?
-
-#EXTINF:-1 group-title="ENTERTAINMENT", MBC Action AR
-http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
-
-#EXTINF:0 group-title="MOVIES",MBC2 HD
-http://63.237.48.3/ios/MBC2/MBC2.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT",MBC_4
-http://63.237.48.8/ios/MBC_4/MBC_4.m3u8
-
-#EXTINF:-1 group-title="DOCUMENTARY",National Geographic HD
-http://103.242.13.67:5000/nn_live.ts?id=nationalgeographic-m-h
-
-#EXTINF:-1 group-title="MOVIES",OSN COMEDY +2
-http://185.27.237.105:8082/TV0021
- 
-#EXTINF:-1 group-title="MOVIES",OMN YAHALA HD +2
-http://185.27.237.105:8082/TV0065
- 
-#EXTINF:-1 group-title="MOVIES",OMN MOVIE DRAMA
-http://185.27.237.105:8082/TV0022
- 
-#EXTINF:-1 group-title="MOVIES",OMN HD 1
-http://185.27.237.105:8082/TV0023
- 
-#EXTINF:-1 group-title="MOVIES",OMN HD 2
-http://185.27.237.105:8082/TV0024
- 
-#EXTINF:-1 group-title="MOVIES",OMN ACTION HD 3
-http://185.27.237.105:8082/TV0025
-
-#EXTINF:-1 group-title="MOVIES",OMN KIDS HD 6
-http://185.27.237.105:8082/TV0053
- 
-#EXTINF:-1 group-title="MOVIES",Star MOVIE HD
-http://185.27.237.105:8082/TV0051
- 
-#EXTINF:-1 group-title="MOVIES",OMN YAHALLA HD AR  
-http://185.27.237.105:8082/TV0064
- 
-#EXTINF:-1 group-title="MOVIES",OMN MOVIE HD +2
-http://185.27.237.105:8082/TV0054
-
-#EXTINF:-1 group-title="MOVIES",OMN MOVIE DRAMA +2
-http://185.27.237.105:8082/TV0075
- 
-#EXTINF:-1 group-title="MOVIES",OMN FIRST HD
-http://185.27.237.105:8082/TV0063
-
-#EXTINF:-1 group-title="MOVIES",OMN YAHALAH CHABAB HD
-http://185.27.237.105:8082/TV0052
- 
-#EXTINF:-1 group-title="MOVIES",OMN YAHALLA AR
-http://185.27.237.105:8082/TV0065
- 
-#EXTINF:-1 group-title="MOVIES",OMN FIRST MORE HD
-http://185.27.237.105:8082/TV0084
-
-#EXTINF:-1 group-title="MOVIES",OSN 2 Film
-http://185.27.237.105:8082/TV0062
-
-#EXTINF:-1 group-title="MOVIES",star OSN
-http://185.27.237.105:8082/TV0056
-
-#EXTINF:-1 group-title="MOVIES",MGM
-http://185.27.237.105:8082/TV0050
-
-#EXTINF:0 group-title="SPORT",ESPN SD
-http://50.7.69.186:1935/edge/_definst_/erooxo5dcvk05zk/chunklist.m3u8?wowzasessionid=1426891013
-
-#EXTINF:0 group-title="SPORT",ESPN 2 SD
-http://50.7.69.186:1935/edge/_definst_/5hd19kwxef5b59o/chunklist.m3u8?wowzasessionid=1420159722
-
-#EXTINF:0 group-title="MOVIES",HBO Comedy
-http://50.7.69.186:1935/edge/_definst_/a1wn1j3ra1w0cv0/chunklist.m3u8?wowzasessionid=1419915335
-
-#EXTINF:0 group-title="MOVIES",HBO SD
-http://50.7.69.186:1935/edge/_definst_/qzbbu26gcvjxksz/chunklist.m3u8?wowzasessionid=1419847602
-
-#EXTINF:0 group-title="DOCUMENTARY",Nat GEO HD
-http://50.7.69.186:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
-
-#EXTINF:0 group-title="SPORT",NBA Sport
-http://50.7.69.186:1935/edge/_definst_/fzasab6vz02yuf7/chunklist.m3u8?wowzasessionid=1419914830
-
-#EXTINF:0 group-title="SPORT",NBC SD
-http://50.7.69.186:1935/edge/_definst_/s5whw37nl7weedp/chunklist.m3u8?wowzasessionid=1420160473
-
-#EXTINF:0 group-title="DOCUMENTARY",Science HD
-http://50.7.69.186:1935/edge/_definst_/00t250wv1d4ltib/playlist.m3u8?wowzasessionid=1420249487
-
-#EXTINF:-1 group-title="HUNGARY", M1 HD
-http://212.40.98.166/intstreams/mtva/mtv1live.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="HUNGARY", M2 HD
-http://212.40.98.166/intstreams/mtva/mtv2live.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="HUNGARY", Duna World
-http://212.40.98.166/intstreams/mtva/dunaworldlive.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="HUNGARY", Duna
-http://212.40.98.166/intstreams/mtva/dunalive.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="HUNGARY",Euronews (EN)
-http://152.66.115.226:8090/bysid/213
-
-#EXTINF:-1 group-title="HUNGARY",Info
-http://152.66.115.226:8090/bysid/214
-
-#EXTINF:-1 group-title="HUNGARY",RTL Klub
-http://152.66.115.226:8090/bysid/20
-
-#EXTINF:-1 group-title="HUNGARY",m2
-http://152.66.115.226:8090/bysid/40
-
-#EXTINF:-1 tvg-logo="sportv.png" tvg-id="BRASILIPTV - SporTV" tvg-logo="http://updroids.qlix.com.br/logos/sportv.png" group-title="SPORT BR", SPORTV BR
-http://62.210.89.38:1935/liverepeat/201020/live.m3u8?BRASILIPTV
-
-#EXTINF:-1 tvg-logo="foxsports.png" tvg-id="BRASILIPTV" tvg-logo="http://updroids.qlix.com.br/logos/foxsports.png" group-title="SPORT BR", Fox Sports BR
-http://62.210.89.38:8081/livehd/foxsportshd/playlist.m3u8?BRASILIPTV
-
-#EXTINF:-1 tvg-logo="esporteinterativo.png" tvg-id="BRASILIPTV - Esporte Interativo" tvg-logo="http://updroids.qlix.com.br/logos/esporteinterativo.png" group-title="SPORT BR", Esporte Interativo HD BR
-http://wowzaprodhd4-lh.akamaihd.net/i/68baf6c5_1@42717/master.m3u8
-
-#EXTINF:-1 tvg-logo="pfc.png" tvg-id="BRASILIPTV - Premiere Futebol Clube" tvg-logo="http://updroids.qlix.com.br/logos/pfc.png" group-title="SPORT BR", PREMIERE 1 (PFC EM DIAS DE JOGOS)
-http://62.210.89.38:1935/liverepeat/fut01/live.m3u8?BRASILIPTV
-
-#EXTINF:-1 tvg-logo="pfc.png" tvg-id="BRASILIPTV - Premiere Futebol Clube" tvg-logo="http://updroids.qlix.com.br/logos/pfc.png" group-title="SPORT BR", PREMIERE 2 (PFC EM DIAS DE JOGOS)
-http://62.210.89.38:1935/liverepeat/fut02/live.m3u8?BRASILIPTV
-
-#EXTINF:-1 tvg-logo="pfc.png" tvg-id="BRASILIPTV - Premiere Futebol Clube" tvg-logo="http://updroids.qlix.com.br/logos/pfc.png" group-title="SPORT BR", PREMIERE 3 (PFC EM DIAS DE JOGOS)
-http://62.210.83.152:1935/liverepeat/101010/playlist.m3u8?BRASILIPTV
-
-#EXTINF:-1 tvg-logo="pfc.png" tvg-id="BRASILIPTV - Premiere Futebol Clube" tvg-logo="http://updroids.qlix.com.br/logos/pfc.png" group-title="SPORT BR", PREMIERE 4 (PFC EM DIAS DE JOGOS)
-http://62.210.83.152:1935/liverepeat/101010/playlist.m3u8?BRASILIPTV
-
-#EXTINF:-1 tvg-logo="pfc.png" tvg-id="BRASILIPTV - Premiere Futebol Clube" tvg-logo="http://updroids.qlix.com.br/logos/pfc.png" group-title="SPORT BR", PREMIERE 5 (PFC EM DIAS DE JOGOS)
-http://62.210.89.38:1935/liverepeat/fut05/live.m3u8?BRASILIPTV
-
-#EXTINF:-1 tvg-logo="pfc.png" tvg-id="BRASILIPTV - Premiere Futebol Clube" tvg-logo="http://updroids.qlix.com.br/logos/pfc.png" group-title="SPORT BR", PREMIERE 6 (PFC EM DIAS DE JOGOS)
-http://62.210.89.38:1935/liverepeat/fut06/live.m3u8?BRASILIPTV
-
-#EXTINF:-1 tvg-logo="pfc.png" tvg-id="BRASILIPTV - Premiere Futebol Clube" tvg-logo="http://updroids.qlix.com.br/logos/pfc.png" group-title="SPORT BR", PREMIERE 7 (PFC EM DIAS DE JOGOS)
-http://62.210.89.38:1935/liverepeat/fut07/live.m3u8?BRASILIPTV
-
-#EXTINF:-1 tvg-logo="pfc.png" tvg-id="BRASILIPTV - Premiere Futebol Clube" tvg-logo="http://updroids.qlix.com.br/logos/pfc.png" group-title="SPORT BR", PREMIERE 8 (PFC EM DIAS DE JOGOS)
-http://62.210.89.38:1935/liverepeat/201020/live.m3u8?BRASILIPTV
-
-#EXTINF:-1 tvg-logo="pfc.png" tvg-id="BRASILIPTV - Premiere Futebol Clube" tvg-logo="http://updroids.qlix.com.br/logos/pfc.png" group-title="SPORT BR", PREMIERE 9 (PFC EM DIAS DE JOGOS)
-http://62.210.89.38:1935/liverepeat/fut09/live.m3u8?BRASILIPTV
-
-#EXTINF:-1 tvg-logo="pfc.png" tvg-id="BRASILIPTV - Premiere Futebol Clube" tvg-logo="http://updroids.qlix.com.br/logos/pfc.png" group-title="SPORT BR", PREMIERE 10 (PFC EM DIAS DE JOGOS)
-http://62.210.89.38:1935/liverepeat/fut1022842/live.m3u8?BRASILIPTV
-
-#EXTINF:-1 tvg-logo="pfc.png" tvg-id="BRASILIPTV - Premiere Futebol Clube" tvg-logo="http://updroids.qlix.com.br/logos/pfc.png" group-title="SPORT BR", PREMIERE 11 (PFC EM DIAS DE JOGOS)
-http://62.210.89.38:1935/liverepeat/fut1123402/live.m3u8?BRASILIPTV
-
-#EXTINF:-1 tvg-logo="pfc.png" tvg-id="BRASILIPTV - Premiere Futebol Clube" tvg-logo="http://updroids.qlix.com.br/logos/pfc.png" group-title="SPORT BR", PREMIERE 12 (PFC EM DIAS DE JOGOS)
-http://62.210.89.38:1935/liverepeat/fut12/live.m3u8?BRASILIPTV
-
-#EXTINF:-1 tvg-logo="foxsports.png" tvg-id="" tvg-logo="http://updroids.qlix.com.br/logos/foxsports.png" group-title="SPORT", Fox Sports HD(ING) 
-http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8?BRASILIPTV
-
-#EXTINF:-1 tvg-logo="foxsports2.png" tvg-id="" tvg-logo="http://updroids.qlix.com.br/logos/foxsports2.png" group-title="SPORT", Fox Sports 2 HD(ING) 
-http://103.242.13.66:5000/nn_live.ts?id=starsport-m-h?BRASILIPTV
-
-#EXTINF:-1 tvg-logo="foxsports.png" tvg-id="" tvg-logo="http://updroids.qlix.com.br/logos/foxsports.png" group-title="SPORT", Fox Sports 3 HD(ING)
-http://fsplive_hls-lh.akamaihd.net/i/fsp_HLSlive05_1@123460/index_1200_av-p.m3u8?BRASILIPTV
-
-#EXTINF:-1 tvg-logo="hollywood.png" tvg-id="" tvg-logo="http://updroids.qlix.com.br/logos/hollywood.png" group-title="MOVIES", HOLLYWOOD PT
-http://noscdn1.connectedviews.com:1935/live/hollywood.stream/livestream.m3u8?BRASILIPTV
-
-#EXTINF:0 group-title="SPORT", BEIN SPORTS HD1 GERMAN
-http://91.109.20.227:8080/TV4001
-
-#EXTINF:0 group-title="SPORT", BEIN SPORTS HD1 FRENCH
-http://91.109.20.227:8080/TV4016
-
-#EXTINF:-1 group-title="DOCUMENTARY",Animal Planet
-http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028
-
-#EXTINF:-1 group-title="SPORT",Arena 3
-http://5.135.60.8/Alb/Albsports.com/33.ch
-
-#EXTINF:-1 group-title="SPORT",BEin MAX4
-http://5.135.60.8/Alb/Albsports.com/34.ch
-
-#EXTINF:-1 group-title="SPORT",BTSPORT 2
-http://5.135.60.8/Alb/Albsports.com/46.ch
-
-#EXTINF:-1 group-title="SPORT",ESPN USA
-http://5.135.60.8/Alb/Albsports.com/57.ch
-
-#EXTINF:-1 group-title="SPORT",ESPN USA
-http://5.135.60.8/Alb/Albsports.com/58.ch
-
-#EXTINF:-1 group-title="KIDS",Cartoon network
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT",Nickelodeon
-http://212.70.155.243:40665/udp/237.100.0.23:4000
-
-#EXTINF:-1 group-title="NEWS",CCTV NEWS
-http://212.70.155.243:40665/udp/237.100.0.25:4000
-
-#EXTINF:-1 group-title="MOVIES",TV 1000
-http://212.70.155.243:40665/udp/237.100.0.20:4000
-
-#EXTINF:-1 group-title="DOCUMENTARY",VIASAT HISTORY
-http://212.70.155.243:40665/udp/237.100.0.34:4000
-
-#EXTINF:-1 group-title="DOCUMENTARY",VIASAT NATURE
-http://212.70.155.243:40665/udp/237.100.0.37:4000
-
-#EXTINF:-1 group-title="DOCUMENTARY",ANIMAL PLANET
-http://212.70.155.243:40665/udp/237.100.0.39:4000
-
-#EXTINF:-1 group-title="SPORT",EUROSPORT
-http://212.70.155.243:40665/udp/237.100.0.52:4000
-
-#EXTINF:-1 group-title="SPORT",EUROSPORT 2
-http://212.70.155.243:40665/udp/237.100.0.53:4000
-
-#EXTINF:-1 group-title="SPORT",NOVO SPORT RU
-http://212.70.155.243:40665/udp/237.100.0.54:4000
-
-#EXTINF:-1 group-title="SPORT",RING BG RU
-http://212.70.155.243:40665/udp/237.100.0.55:4000
-
-#EXTINF:-1 group-title="NEWS",BLOOMBERG NEWS
-http://212.70.155.243:40665/udp/237.100.0.90:4000
-
-#EXTINF:-1 group-title="ENTERTAINMENT",RTP1 PT
-http://myplace.dnsalias.com:6262/live/pt/gratis/1.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",RTP2 PT
-http://myplace.dnsalias.com:6262/live/pt/gratis/2.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",RTP1 PT
-http://myplace.dnsalias.com:6262/live/pt/gratis/3.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",i PT
-http://myplace.dnsalias.com:6262/live/pt/gratis/4.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",Sico PT
-http://myplace.dnsalias.com:6262/live/pt/gratis/5.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",24 PT
-http://myplace.dnsalias.com:6262/live/pt/gratis/6.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",? PT
-http://myplace.dnsalias.com:6262/live/pt/gratis/7.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",? PT
-http://myplace.dnsalias.com:6262/live/pt/gratis/8.m3u8
-#EXTINF:-1 group-title="KIDS",panda PT
-http://myplace.dnsalias.com:6262/live/pt/gratis/9.m3u8
-#EXTINF:-1 group-title="KIDS",Disney junior PT
-http://myplace.dnsalias.com:6262/live/pt/gratis/10.m3u8
-#EXTINF:-1 group-title="KIDS",Disney PT
-http://myplace.dnsalias.com:6262/live/pt/gratis/11.m3u8
-#EXTINF:-1 group-title="SPORT",SPORT TV1 HD PT
-http://myplace.dnsalias.com:6262/live/pt/gratis/20.m3u8
-#EXTINF:-1 group-title="SPORT",SPORT TV2 PT
-http://myplace.dnsalias.com:6262/live/pt/gratis/21.m3u8
-#EXTINF:-1 group-title="SPORT",SPORT TV3 PT
-http://myplace.dnsalias.com:6262/live/pt/gratis/22.m3u8
-#EXTINF:-1 group-title="SPORT",SPORT TV4 PT
-http://myplace.dnsalias.com:6262/live/pt/gratis/23.m3u8
-#EXTINF:-1 group-title="SPORT",SPORT TV5 PT
-http://myplace.dnsalias.com:6262/live/pt/gratis/24.m3u8
-#EXTINF:-1 group-title="SPORT",3TV 1 PT
-http://myplace.dnsalias.com:6262/live/pt/gratis/25.m3u8
-#EXTINF:-1 group-title="SPORT",3TV PT
-http://myplace.dnsalias.com:6262/live/pt/gratis/26.m3u8
-#EXTINF:-1 group-title="SPORT",Sporting TV PT
-http://myplace.dnsalias.com:6262/live/pt/gratis/27.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",TVC1 PT
-http://myplace.dnsalias.com:6262/live/pt/gratis/28.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",TVC3 PT
-http://myplace.dnsalias.com:6262/live/pt/gratis/30.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",TVC4 PT
-http://myplace.dnsalias.com:6262/live/pt/gratis/31.m3u8
-
-#EXTINF:-1 group-title="SPORT",BEIN SPORTS 1 HD AR
-http://2co1.vp9.tv/chn/bin01/v.m3u8
-
-#EXTINF:-1 group-title="KODI ONLY",Beinsport 1HD
-rtmp://180.250.29.12:1935/jhos/beib1_5
-#EXTINF:-1 group-title="KODI ONLY",Beinsport 1SD 1
-rtmp://180.250.29.12:1935/jhos/beib1_1
-#EXTINF:-1 group-title="KODI ONLY",Beinsport 1SD 2
-rtmp://180.250.29.12:1935/jhos/beib1_2
-#EXTINF:-1 group-title="KODI ONLY",Beinsport 1SD 3
-rtmp://180.250.29.12:1935/jhos/beib1_3
-#EXTINF:-1 group-title="KODI ONLY",Beinsport 1SD 4
-rtmp://180.250.29.12:1935/jhos/beib1_4
-
-#EXTINF:-1 group-title="KODI ONLY",Beinsport 2HD
-rtmp://180.250.29.12:1935/jhos/beib2_5
-#EXTINF:-1 group-title="KODI ONLY",Beinsport 2SD 1
-rtmp://180.250.29.12:1935/jhos/beib2_1
-#EXTINF:-1 group-title="KODI ONLY",Beinsport 2SD 2
-rtmp://180.250.29.12:1935/jhos/beib2_2
-#EXTINF:-1 group-title="KODI ONLY",Beinsport 2SD 3
-rtmp://180.250.29.12:1935/jhos/beib2_3
-#EXTINF:-1 group-title="KODI ONLY",Beinsport 2SD 4
-rtmp://180.250.29.12:1935/jhos/beib2_4
-
-#EXTINF:-1 group-title="KODI ONLY",Beinsport 3HD
-rtmp://180.250.29.12:1935/jhos/beib3_5
-#EXTINF:-1 group-title="KODI ONLY",Beinsport 3SD 1
-rtmp://180.250.29.12:1935/jhos/beib3_1
-#EXTINF:-1 group-title="KODI ONLY",Beinsport 3SD 2
-rtmp://180.250.29.12:1935/jhos/beib3_2
-#EXTINF:-1 group-title="KODI ONLY",Beinsport 3SD 3
-rtmp://180.250.29.12:1935/jhos/beib3_3
-#EXTINF:-1 group-title="KODI ONLY",Beinsport 3SD 4
-rtmp://180.250.29.12:1935/jhos/beib3_4
-
-#EXTINF:-1,TELE5
-http://81.92.105.135:5555/pl.m3u8?channel=106
-
-
-#EXTINF:-1 group-title="ENTERTAINMENT",Spain:Antena 3
-http://uneapple-i.akamaihd.net/hls/live/205012/grupoune_st3@205012/st3_index.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT",Spain:LaSexta HD
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
-
-#EXTINF:-1 group-title="SPORT",Spain:TVE 24h
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-
-#EXTINF:-1 group-title="SPORT",Canal+ Liga De Campeones
-http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="Total_TVE" tvg-name="TVE" tvg-logo="tve.png" group-title="ENTERTAINMENT",TVE
-http://200.76.77.237/LIVE/H01/CANAL651/PROFILE05.m3u8?
-
-#EXTINF:-1 tvg-id="jonasiptv-BANDn" tvg-logo="Band.jpg" tvg-logo="http://iptvglobal.ml/logos/Band.jpg" group-title="ENTERTAINMENT",Band BR
-http://mistreaming.com.br:8081/TarobaCascavel/TarobaCascavel/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=”!e.png” group-title="ENTERTAINMENT",E!  
-http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
-
-
-#EXTINF:0 group-title="SPORT",BEINSPORTS 1
-http://tvbox3.mine.nu:80/live?channelId=8&uid=2&deviceUser=nqash&devicePass=skype:adil.ana10
-#EXTINF:0 group-title="SPORT",BEINSPORTS 2
-http://tvbox3.mine.nu:80/live?channelId=9&uid=2&deviceUser=nqash&devicePass=skype:adil.ana10
-#EXTINF:0 group-title="SPORT",BEINSPORTS 3
-http://tvbox3.mine.nu:80/live?channelId=10&uid=2&deviceUser=nqash&devicePass=skype:adil.ana10
-#EXTINF:0 group-title="SPORT",BEINSPORTS 4
-http://tvbox3.mine.nu:80/live?channelId=11&uid=2&deviceUser=nqash&devicePass=skype:adil.ana10
-#EXTINF:0 group-title="SPORT",BEINSPORTS 5
-http://tvbox3.mine.nu:80/live?channelId=12&uid=2&deviceUser=nqash&devicePass=skype:adil.ana10
-#EXTINF:0 group-title="SPORT",BEINSPORTS 6
-http://tvbox3.mine.nu:80/live?channelId=13&uid=2&deviceUser=nqash&devicePass=skype:adil.ana10
-#EXTINF:0 group-title="SPORT",BEINSPORTS 7
-http://tvbox3.mine.nu:80/live?channelId=14&uid=2&deviceUser=nqash&devicePass=skype:adil.ana10
-#EXTINF:0 group-title="SPORT",BEINSPORTS 8
-http://tvbox3.mine.nu:80/live?channelId=15&uid=2&deviceUser=nqash&devicePass=skype:adil.ana10
-#EXTINF:0 group-title="SPORT",BEINSPORTS 16
-http://tvbox3.mine.nu:80/live?channelId=16&uid=2&deviceUser=nqash&devicePass=skype:adil.ana10
-#EXTINF:0 group-title="SPORT",BEINSPORTS 9
-http://tvbox3.mine.nu:80/live?channelId=26&uid=2&deviceUser=nqash&devicePass=skype:adil.ana10
-#EXTINF:0 group-title="SPORT",BEINSPORTS 10
-http://tvbox3.mine.nu:80/live?channelId=27&uid=2&deviceUser=nqash&devicePass=skype:adil.ana10
-#EXTINF:0 group-title="SPORT",BEINSPORTS 11
-http://tvbox3.mine.nu:80/live?channelId=28&uid=2&deviceUser=nqash&devicePass=skype:adil.ana10
