@@ -582,5 +582,7 @@ http://Enes-Hallstahammar:iptv@cdn.port0.org:81/supersport3
 #EXTINF:-1,Super Sport 4
 http://Enes-Hallstahammar:iptv@cdn.port0.org:81/supersport4
 
+#EXTINF:-1,LA SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
 
