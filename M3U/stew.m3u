@@ -585,4 +585,21 @@ http://Enes-Hallstahammar:iptv@cdn.port0.org:81/supersport4
 #EXTINF:-1,LA SEXTA
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
+#EXTINF:-1,TVI
+http://satznt.mine.nu:7002/tvi
+
+#EXTINF:-1,babytv
+http://satznt.mine.nu:7001/babytv
+
+#EXTINF:-1,sptv1
+http://satznt.mine.nu:7002/sptv1
+
+#EXTINF:-1,hlw
+http://satznt.mine.nu:7001/hlw
+
+#EXTINF:-1,panda
+http://satznt.mine.nu:7002/panda
+
+#EXTINF:-1,sptv2
+http://satznt.mine.nu:7003/sptv2
 
